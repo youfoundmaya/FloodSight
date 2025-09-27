@@ -3,7 +3,7 @@
 ## **Problem Statement**
 
 - Timely and accurate flood risk assessment is critical for saving lives and minimizing property damage. Existing systems often rely on static models or delayed reporting, failing to provide the dynamic, hyper-localized information needed for rapid decision-making.
-- The FloodGuard project addresses this by developing a machine learning-powered system that ingests real-time environmental data (rainfall, river levels, terrain, weather forecasts) to classify flood risk severity. The core objective is to deliver immediate, actionable intelligence through a responsive dashboard featuring three distinct severity levels:
+- The FloodSight project addresses this by developing a machine learning-powered system that ingests real-time environmental data (rainfall, river levels, terrain, weather forecasts) to classify flood risk severity. The core objective is to deliver immediate, actionable intelligence through a responsive dashboard featuring three distinct severity levels:
 
 - 🟢 Safe: No immediate risk detected.
 - 🟡 Warning: Elevated risk; monitor conditions closely.
@@ -11,7 +11,7 @@
 
 - Crucially, the system integrates with the Google Maps API to provide users in "Warning" or "Evacuation" zones with safe, navigable route suggestions to designated safe zones, bypassing flooded or blocked areas in real-time. This combination of predictive classification and dynamic routing transforms raw data into life-saving operational capacity.
 
-## **2. Team Members & Tech Stack**
+## **Team Members & Tech Stack**
 Name                           Focus              
 Mrunmayee Ovhal           Data Integration, Map Visualization, Streamlit UI, Weather API
 Karan Saun                Model Training, Classification Logic
