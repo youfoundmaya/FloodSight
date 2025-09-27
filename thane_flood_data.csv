@@ -1,0 +1,701 @@
+Location,DateTime,Temperature,Humidity,Rainfall,Pressure,WindSpeed,TideLevel,FloodRiskLevel,RoadRiskLevel,HomeRiskLevel,ForecastHourly,ForecastWeekly,NewsAlerts,EmergencyRecommendations,WaterloggingReports,TrafficDisruptions,EmergencyContacts,HistoricalFloodRecords,Latitude,Longitude
+Shahapur,40:17.6,31,68,214.1,990.1,7,0.77,High,Medium,Medium,31,31,,Stay alert.,214.1,0,100,High,19.450,73.330
+Shahapur,34:39.7,35.4,96,136.8,1010.1,29.7,1.03,Medium,Medium,Medium,35.4,35.4,,Stay alert.,136.8,1,100,Medium,19.450,73.330
+Thane City,09:44.6,24.1,97,114.6,997.2,32,1.64,High,High,High,24.1,24.1,,Stay alert.,114.6,0,100,High,19.218,72.978
+Murbad,42:19.3,33.6,61,16.1,1004.5,3.8,1.42,Medium,Medium,Medium,33.6,33.6,,Stay alert.,0,1,100,Medium,19.250,73.400
+Ambernath,51:35.9,30.4,69,15.5,999.9,16,1.92,High,High,High,30.4,30.4,,Stay alert.,0,1,100,High,19.186,73.191
+Bhiwandi,20:40.7,26.5,61,48.5,1006.2,12.5,0.64,Low,Low,Low,26.5,26.5,,Stay alert.,0,0,100,Low,19.296,73.063
+Murbad,28:41.4,35.2,93,47,1006.4,7.3,1.12,Medium,Medium,Medium,35.2,35.2,,Stay alert.,0,0,100,Medium,19.250,73.400
+Murbad,08:04.2,27.3,84,222.1,994.7,30.4,1.69,High,High,High,27.3,27.3,,Stay alert.,222.1,0,100,High,19.250,73.400
+Mira-Bhayandar,45:04.1,35.7,87,227.6,996.8,24.6,0.95,High,Medium,High,35.7,35.7,,Stay alert.,227.6,0,100,High,19.295,72.854
+Ulhasnagar,34:09.1,26.8,61,79.2,1011,27.7,1.38,Medium,Medium,Medium,26.8,26.8,,Stay alert.,0,1,100,Medium,19.216,73.150
+Thane City,35:17.1,26.8,92,205,999.2,28.1,1.99,High,High,High,26.8,26.8,,Stay alert.,205,1,100,High,19.218,72.978
+Ambernath,20:32.8,32,92,276.7,1007.1,18.2,0.04,High,High,High,32,32,,Stay alert.,276.7,0,100,High,19.186,73.191
+Mira-Bhayandar,27:51.0,34.5,69,107.3,996.8,9.4,0.2,Medium,Medium,Medium,34.5,34.5,,Stay alert.,107.3,0,100,Medium,19.295,72.854
+Mira-Bhayandar,56:39.6,35.5,77,278.5,1011.1,1.8,1.75,High,High,High,35.5,35.5,,Stay alert.,278.5,0,100,High,19.295,72.854
+Ambernath,49:27.6,34,64,75,1000.2,4.4,1.49,Medium,Medium,Medium,34,34,,Stay alert.,0,0,100,Medium,19.186,73.191
+Ambernath,57:57.0,27.4,91,270.7,1014.7,15.4,1.01,High,High,High,27.4,27.4,,Stay alert.,270.7,1,100,High,19.186,73.191
+Ulhasnagar,51:25.8,30.2,90,4.7,1008.7,5.4,1,Medium,Medium,Medium,30.2,30.2,,Stay alert.,0,0,100,Medium,19.216,73.150
+Ulhasnagar,02:01.8,30,86,237.3,997.8,15.2,1.58,High,High,High,30,30,,Stay alert.,237.3,1,100,High,19.216,73.150
+Bhiwandi,31:31.7,26.6,70,51.1,1000,2.1,1.47,Medium,Medium,Medium,26.6,26.6,,Stay alert.,0,0,100,Medium,19.296,73.063
+Thane City,34:10.2,26.2,84,233.4,1002.7,23.5,1.2,High,Medium,High,26.2,26.2,,Stay alert.,233.4,0,100,High,19.218,72.978
+Kalyan,41:19.1,31.5,72,14,1003.8,1.3,0.2,Low,Low,Low,31.5,31.5,,Stay alert.,0,0,100,Low,19.243,73.080
+Kalyan,16:08.8,34,95,228.7,1003.7,16.7,1.49,High,Medium,High,34,34,,Stay alert.,228.7,0,100,High,19.243,73.080
+Murbad,15:32.3,35.4,61,210.2,1005.3,25.4,1.95,High,High,High,35.4,35.4,,Stay alert.,210.2,0,100,High,19.250,73.400
+Mira-Bhayandar,27:07.2,32.8,85,307,1003.1,26.5,1.29,High,High,High,32.8,32.8,,Stay alert.,307,0,100,High,19.295,72.854
+Kalyan,37:51.4,33.7,85,325.3,1007.4,20.5,1.46,High,High,High,33.7,33.7,,Stay alert.,325.3,0,100,High,19.243,73.080
+Thane City,05:48.0,29,98,31.7,1002.2,29.6,1.22,Medium,Medium,Medium,29,29,,Stay alert.,0,1,100,Medium,19.218,72.978
+Ulhasnagar,05:34.0,24.9,79,32.4,1003.7,22.5,0.33,Low,Low,Low,24.9,24.9,,Stay alert.,0,0,100,Low,19.216,73.150
+Dombivli,59:45.6,34.8,71,278.2,999,5.4,0.78,High,High,High,34.8,34.8,,Stay alert.,278.2,1,100,High,19.218,73.087
+Ambernath,52:51.2,29.1,61,279.5,991.3,30.6,0.74,High,High,High,29.1,29.1,,Stay alert.,279.5,0,100,High,19.186,73.191
+Kalyan,26:39.8,28.2,85,306,1003.1,15,1.17,High,High,High,28.2,28.2,,Stay alert.,306,0,100,High,19.243,73.080
+Ambernath,08:08.2,32.9,86,109.3,1005.6,22,0.19,Medium,Medium,Medium,32.9,32.9,,Stay alert.,109.3,0,100,Medium,19.186,73.191
+Bhiwandi,10:18.4,34.6,79,285,1007.6,4.1,0.97,High,High,High,34.6,34.6,,Stay alert.,285,0,100,High,19.296,73.063
+Mira-Bhayandar,20:38.3,27.3,68,158.6,1014.8,14.4,0.79,Medium,Medium,Medium,27.3,27.3,,Stay alert.,158.6,0,100,Medium,19.295,72.854
+Kalyan,47:12.8,35.2,95,25.2,1009.2,25.6,0.07,Low,Low,Low,35.2,35.2,,Stay alert.,0,0,100,Low,19.243,73.080
+Ambernath,56:03.2,30.6,78,169.9,991.1,32.5,1.37,Medium,Medium,Medium,30.6,30.6,,Stay alert.,169.9,0,100,Medium,19.186,73.191
+Dombivli,00:20.9,24.7,76,64.4,1005,4.8,0.97,Medium,Medium,Medium,24.7,24.7,,Stay alert.,0,0,100,Medium,19.218,73.087
+Dombivli,17:56.4,27.7,87,244.3,1014.3,32,1.67,High,High,High,27.7,27.7,,Stay alert.,244.3,1,100,High,19.218,73.087
+Bhiwandi,37:14.6,30.6,76,195.6,995.3,11.5,1.41,Medium,Medium,Medium,30.6,30.6,,Stay alert.,195.6,1,100,Medium,19.296,73.063
+Bhiwandi,54:54.9,24.6,76,284.1,1010.5,31.2,1.55,High,High,High,24.6,24.6,,Stay alert.,284.1,0,100,High,19.296,73.063
+Thane City,27:36.4,32.1,65,346.4,999.6,30.5,0.14,High,High,High,32.1,32.1,,Stay alert.,346.4,0,100,High,19.218,72.978
+Ulhasnagar,01:06.0,26.6,94,227.7,999.4,2.6,0.81,High,Medium,High,26.6,26.6,,Stay alert.,227.7,1,100,High,19.216,73.150
+Ambernath,27:08.8,27.1,74,77.8,1000.5,8.5,1.1,Medium,Medium,Medium,27.1,27.1,,Stay alert.,0,0,100,Medium,19.186,73.191
+Mira-Bhayandar,22:48.8,31.8,83,224.3,1012.9,33.7,0.98,High,Medium,High,31.8,31.8,,Stay alert.,224.3,1,100,High,19.295,72.854
+Ambernath,43:08.7,35.5,68,283.4,1003.9,1.7,1.45,High,High,High,35.5,35.5,,Stay alert.,283.4,0,100,High,19.186,73.191
+Mira-Bhayandar,41:48.6,33.9,79,284.8,993,25.3,1.67,High,High,High,33.9,33.9,,Stay alert.,284.8,0,100,High,19.295,72.854
+Murbad,11:35.6,27.8,72,104.9,1005.5,28.5,0.75,Medium,Medium,Medium,27.8,27.8,,Stay alert.,104.9,1,100,Medium,19.250,73.400
+Shahapur,29:06.9,26.2,90,28.6,1003.2,27.2,1.76,High,High,High,26.2,26.2,,Stay alert.,0,0,100,High,19.450,73.330
+Mira-Bhayandar,43:15.8,32.7,84,34.5,1006.4,4.2,1.57,High,High,High,32.7,32.7,,Stay alert.,0,1,100,High,19.295,72.854
+Kalyan,22:25.8,35.7,64,348.5,997.8,1.4,0.58,High,High,High,35.7,35.7,,Stay alert.,348.5,1,100,High,19.243,73.080
+Thane City,58:10.9,29.2,91,324.3,1008,9.2,1.97,High,High,High,29.2,29.2,,Stay alert.,324.3,0,100,High,19.218,72.978
+Ambernath,39:16.7,35.6,95,288.9,992.8,9.2,0.72,High,High,High,35.6,35.6,,Stay alert.,288.9,0,100,High,19.186,73.191
+Thane City,46:11.6,35.4,75,243.8,1009.9,3.2,0.5,High,Medium,High,35.4,35.4,,Stay alert.,243.8,1,100,High,19.218,72.978
+Kalyan,27:44.0,26.1,73,187.2,994.7,24,1.47,Medium,Medium,Medium,26.1,26.1,,Stay alert.,187.2,0,100,Medium,19.243,73.080
+Thane City,30:14.6,33.8,69,6.4,995.1,12.5,0.65,Low,Low,Low,33.8,33.8,,Stay alert.,0,0,100,Low,19.218,72.978
+Thane City,57:17.8,26.5,74,107.2,996.4,31.4,1.55,High,High,High,26.5,26.5,,Stay alert.,107.2,0,100,High,19.218,72.978
+Thane City,12:28.2,27.4,89,285.8,993.5,15,0.69,High,High,High,27.4,27.4,,Stay alert.,285.8,0,100,High,19.218,72.978
+Dombivli,26:10.3,35.1,91,284.7,993.1,26.6,0.57,High,High,High,35.1,35.1,,Stay alert.,284.7,0,100,High,19.218,73.087
+Kalyan,04:54.3,35.3,62,64.1,1003.8,33,1.47,Medium,Medium,Medium,35.3,35.3,,Stay alert.,0,0,100,Medium,19.243,73.080
+Mira-Bhayandar,50:38.5,28.8,74,328.5,993.5,21.4,1.56,High,High,High,28.8,28.8,,Stay alert.,328.5,0,100,High,19.295,72.854
+Mira-Bhayandar,29:14.7,30.1,71,147.1,1008,28.3,1.47,Medium,Medium,Medium,30.1,30.1,,Stay alert.,147.1,0,100,Medium,19.295,72.854
+Mira-Bhayandar,28:16.6,36,92,170.6,1006.3,21.6,1.67,High,High,High,36,36,,Stay alert.,170.6,1,100,High,19.295,72.854
+Kalyan,27:09.2,36,80,125.2,1007.2,32.3,1.88,High,High,High,36,36,,Stay alert.,125.2,0,100,High,19.243,73.080
+Ulhasnagar,19:38.1,30.6,93,86.9,997.8,11.7,1.61,High,High,High,30.6,30.6,,Stay alert.,0,1,100,High,19.216,73.150
+Ambernath,50:46.8,34.8,72,313.9,999.3,31.7,1.62,High,High,High,34.8,34.8,,Stay alert.,313.9,0,100,High,19.186,73.191
+Ambernath,23:25.2,26.5,68,35.8,1014.5,11,1.6,High,High,High,26.5,26.5,,Stay alert.,0,0,100,High,19.186,73.191
+Thane City,00:07.1,29.5,87,290.2,992.5,6.4,0.61,High,High,High,29.5,29.5,,Stay alert.,290.2,1,100,High,19.218,72.978
+Dombivli,53:06.4,32.9,69,157.9,1000.7,22.8,1.33,Medium,Medium,Medium,32.9,32.9,,Stay alert.,157.9,1,100,Medium,19.218,73.087
+Bhiwandi,45:24.2,31.5,73,341.8,1009.6,30.1,1.45,High,High,High,31.5,31.5,,Stay alert.,341.8,1,100,High,19.296,73.063
+Dombivli,56:23.6,32,95,332.2,992.7,8.5,1.71,High,High,High,32,32,,Stay alert.,332.2,0,100,High,19.218,73.087
+Murbad,12:21.5,33.8,96,194.7,997.2,31.1,0.59,Medium,Medium,Medium,33.8,33.8,,Stay alert.,194.7,0,100,Medium,19.250,73.400
+Murbad,54:44.8,26.5,67,184.1,1012.5,27.5,0.65,Medium,Medium,Medium,26.5,26.5,,Stay alert.,184.1,1,100,Medium,19.250,73.400
+Bhiwandi,04:39.2,29.7,98,65.1,996.3,12.5,0.59,Medium,Medium,Medium,29.7,29.7,,Stay alert.,0,1,100,Medium,19.296,73.063
+Mira-Bhayandar,48:38.2,32.6,70,24,1001.3,22.2,1.43,Medium,Medium,Medium,32.6,32.6,,Stay alert.,0,0,100,Medium,19.295,72.854
+Ulhasnagar,57:04.5,30.9,93,50.2,1011.9,26.7,1.25,Medium,Medium,Medium,30.9,30.9,,Stay alert.,0,0,100,Medium,19.216,73.150
+Shahapur,19:34.8,32.3,71,289.8,998.8,4.5,1.64,High,High,High,32.3,32.3,,Stay alert.,289.8,0,100,High,19.450,73.330
+Mira-Bhayandar,07:36.7,29.5,72,334.6,995.2,16.4,1.94,High,High,High,29.5,29.5,,Stay alert.,334.6,0,100,High,19.295,72.854
+Bhiwandi,57:34.4,32.9,72,127,1002.1,3.3,1.07,Medium,Medium,Medium,32.9,32.9,,Stay alert.,127,0,100,Medium,19.296,73.063
+Shahapur,07:30.4,30.9,65,82.7,1001.4,29.6,0.81,Medium,Medium,Medium,30.9,30.9,,Stay alert.,0,1,100,Medium,19.450,73.330
+Kalyan,21:26.4,33.3,83,204.1,1012.4,6.7,0.75,High,Medium,Medium,33.3,33.3,,Stay alert.,204.1,1,100,High,19.243,73.080
+Murbad,12:25.5,25.4,88,294.9,1014.5,34.7,1.51,High,High,High,25.4,25.4,,Stay alert.,294.9,0,100,High,19.250,73.400
+Shahapur,28:46.7,24.6,91,154.1,1003.3,16.8,1.61,High,High,High,24.6,24.6,,Stay alert.,154.1,0,100,High,19.450,73.330
+Kalyan,00:38.1,31.1,64,148.2,1001.6,31.5,0.26,Medium,Medium,Medium,31.1,31.1,,Stay alert.,148.2,1,100,Medium,19.243,73.080
+Shahapur,35:09.5,34.2,96,78.1,999.5,6.1,0.69,Medium,Medium,Medium,34.2,34.2,,Stay alert.,0,1,100,Medium,19.450,73.330
+Kalyan,30:05.4,26.1,83,104.3,1003.4,11.4,1.8,High,High,High,26.1,26.1,,Stay alert.,104.3,1,100,High,19.243,73.080
+Murbad,32:54.1,25.9,83,218.8,999.7,16.4,0.48,High,Medium,Medium,25.9,25.9,,Stay alert.,218.8,1,100,High,19.250,73.400
+Thane City,01:45.9,33.4,77,222.5,1005.6,9.2,1.85,High,High,High,33.4,33.4,,Stay alert.,222.5,1,100,High,19.218,72.978
+Ulhasnagar,03:18.3,32.6,62,207.7,996.6,18.8,0.93,High,Medium,Medium,32.6,32.6,,Stay alert.,207.7,1,100,High,19.216,73.150
+Mira-Bhayandar,03:00.3,34.4,61,30.3,1009.6,11.5,0.31,Low,Low,Low,34.4,34.4,,Stay alert.,0,0,100,Low,19.295,72.854
+Mira-Bhayandar,03:30.9,31.8,72,116.8,1012.2,4.9,1.84,High,High,High,31.8,31.8,,Stay alert.,116.8,1,100,High,19.295,72.854
+Thane City,49:04.0,33.2,80,147.5,999.5,30.6,0.39,Medium,Medium,Medium,33.2,33.2,,Stay alert.,147.5,1,100,Medium,19.218,72.978
+Thane City,45:05.9,32.6,84,90.9,1010,6.1,1.07,Medium,Medium,Medium,32.6,32.6,,Stay alert.,0,0,100,Medium,19.218,72.978
+Thane City,34:37.9,28.2,63,64.5,1013.4,12.6,0.29,Medium,Medium,Medium,28.2,28.2,,Stay alert.,0,0,100,Medium,19.218,72.978
+Kalyan,25:39.0,29.5,66,339.8,991.4,5.3,0.68,High,High,High,29.5,29.5,,Stay alert.,339.8,0,100,High,19.243,73.080
+Thane City,27:47.9,26.9,73,67.4,1013.1,30.6,0.71,Medium,Medium,Medium,26.9,26.9,,Stay alert.,0,0,100,Medium,19.218,72.978
+Ambernath,50:56.8,25.4,62,146.2,1003.8,30.4,0.62,Medium,Medium,Medium,25.4,25.4,,Stay alert.,146.2,1,100,Medium,19.186,73.191
+Murbad,37:19.1,27.4,73,306.1,992.5,11,0.73,High,High,High,27.4,27.4,,Stay alert.,306.1,0,100,High,19.250,73.400
+Dombivli,21:20.9,27.2,72,294.2,1003.9,5,0.34,High,High,High,27.2,27.2,,Stay alert.,294.2,1,100,High,19.218,73.087
+Ambernath,08:26.0,32,90,343.5,1006.9,8.7,0.22,High,High,High,32,32,,Stay alert.,343.5,1,100,High,19.186,73.191
+Thane City,54:32.1,25.8,82,160,1010.1,21,0.49,Medium,Medium,Medium,25.8,25.8,,Stay alert.,160,0,100,Medium,19.218,72.978
+Shahapur,15:47.7,26.6,67,65.6,1011.2,3.3,1.99,High,High,High,26.6,26.6,,Stay alert.,0,1,100,High,19.450,73.330
+Ambernath,35:01.9,31.7,73,306.1,1008.3,24.7,0.92,High,High,High,31.7,31.7,,Stay alert.,306.1,0,100,High,19.186,73.191
+Thane City,47:31.0,28.3,82,272.4,995.4,6,0.89,High,High,High,28.3,28.3,,Stay alert.,272.4,1,100,High,19.218,72.978
+Bhiwandi,29:24.3,32.6,65,326.9,1005.9,33.3,1.74,High,High,High,32.6,32.6,,Stay alert.,326.9,0,100,High,19.296,73.063
+Kalyan,05:51.1,34.9,79,57.6,991.3,23.1,0.91,Medium,Low,Medium,34.9,34.9,,Stay alert.,0,1,100,Medium,19.243,73.080
+Murbad,03:16.4,32.6,63,345.4,1006,2.4,1.01,High,High,High,32.6,32.6,,Stay alert.,345.4,1,100,High,19.250,73.400
+Murbad,40:35.2,29.5,70,339.9,1013.3,32.5,0.85,High,High,High,29.5,29.5,,Stay alert.,339.9,0,100,High,19.250,73.400
+Murbad,53:22.9,26.7,66,210.9,996.8,34.6,1.55,High,High,High,26.7,26.7,,Stay alert.,210.9,0,100,High,19.250,73.400
+Murbad,51:46.5,25.4,93,232,996.4,11.3,0.27,High,Medium,High,25.4,25.4,,Stay alert.,232,1,100,High,19.250,73.400
+Bhiwandi,35:26.2,28.4,75,232.7,992.5,8.5,0.87,High,Medium,High,28.4,28.4,,Stay alert.,232.7,0,100,High,19.296,73.063
+Dombivli,29:42.9,34.5,84,321.6,996,25,0.15,High,High,High,34.5,34.5,,Stay alert.,321.6,1,100,High,19.218,73.087
+Ulhasnagar,43:52.9,35.1,82,163.4,1013.7,11.3,1.46,Medium,Medium,Medium,35.1,35.1,,Stay alert.,163.4,1,100,Medium,19.216,73.150
+Dombivli,57:10.6,24.6,72,279.3,1012.1,8.9,1.11,High,High,High,24.6,24.6,,Stay alert.,279.3,0,100,High,19.218,73.087
+Shahapur,59:19.0,32.7,76,29.2,992.1,33.7,1.03,Medium,Medium,Medium,32.7,32.7,,Stay alert.,0,0,100,Medium,19.450,73.330
+Shahapur,07:41.3,31.4,60,239.3,1000.3,12.9,0.04,High,Medium,High,31.4,31.4,,Stay alert.,239.3,0,100,High,19.450,73.330
+Mira-Bhayandar,38:24.3,29.4,84,107,1005,26.3,1.06,Medium,Medium,Medium,29.4,29.4,,Stay alert.,107,0,100,Medium,19.295,72.854
+Kalyan,36:18.0,25.8,90,94.9,1000.2,24.9,0.6,Medium,Medium,Medium,25.8,25.8,,Stay alert.,0,1,100,Medium,19.243,73.080
+Kalyan,02:07.7,33.2,90,238.6,1014.5,9.9,0.43,High,Medium,High,33.2,33.2,,Stay alert.,238.6,1,100,High,19.243,73.080
+Dombivli,41:46.0,27,65,140.4,1002.2,34.6,1.14,Medium,Medium,Medium,27,27,,Stay alert.,140.4,0,100,Medium,19.218,73.087
+Ambernath,07:51.6,28,79,325.6,1013.2,29.3,0.48,High,High,High,28,28,,Stay alert.,325.6,1,100,High,19.186,73.191
+Bhiwandi,08:31.0,30.4,73,180,991.6,12.2,0.85,Medium,Medium,Medium,30.4,30.4,,Stay alert.,180,0,100,Medium,19.296,73.063
+Ambernath,42:50.6,26.7,70,179.1,990.8,2.9,1.91,High,High,High,26.7,26.7,,Stay alert.,179.1,1,100,High,19.186,73.191
+Kalyan,59:23.2,33.1,69,166.5,1008.6,16.5,0.21,Medium,Medium,Medium,33.1,33.1,,Stay alert.,166.5,0,100,Medium,19.243,73.080
+Shahapur,15:54.9,33.4,87,218.1,1008.3,9.8,0.37,High,Medium,Medium,33.4,33.4,,Stay alert.,218.1,0,100,High,19.450,73.330
+Murbad,07:31.0,35,96,19,1013.7,1.1,1.02,Medium,Medium,Medium,35,35,,Stay alert.,0,0,100,Medium,19.250,73.400
+Kalyan,29:32.3,34.9,83,59,1009.2,19.1,0.08,Medium,Low,Medium,34.9,34.9,,Stay alert.,0,1,100,Medium,19.243,73.080
+Thane City,10:02.3,35.7,69,313.9,994.5,32.9,0.02,High,High,High,35.7,35.7,,Stay alert.,313.9,1,100,High,19.218,72.978
+Murbad,38:48.8,27.2,93,261.2,996.2,31.2,0.04,High,High,High,27.2,27.2,,Stay alert.,261.2,0,100,High,19.250,73.400
+Thane City,02:28.6,35.4,80,324.6,992.3,8.7,0.32,High,High,High,35.4,35.4,,Stay alert.,324.6,1,100,High,19.218,72.978
+Thane City,20:06.2,34.4,92,291.8,1011.4,5.3,0.94,High,High,High,34.4,34.4,,Stay alert.,291.8,0,100,High,19.218,72.978
+Dombivli,56:19.5,25.5,78,208.9,1012.7,27.9,1.86,High,High,High,25.5,25.5,,Stay alert.,208.9,1,100,High,19.218,73.087
+Thane City,43:56.7,27.2,69,70.1,1001.5,32.6,0.92,Medium,Medium,Medium,27.2,27.2,,Stay alert.,0,1,100,Medium,19.218,72.978
+Bhiwandi,57:02.4,26,75,346.3,1007.7,9.8,0.9,High,High,High,26,26,,Stay alert.,346.3,0,100,High,19.296,73.063
+Bhiwandi,05:37.7,30.8,81,192.7,1008.6,33.1,0.5,Medium,Medium,Medium,30.8,30.8,,Stay alert.,192.7,0,100,Medium,19.296,73.063
+Thane City,12:50.5,33.6,89,310,1009,10,2,High,High,High,33.6,33.6,,Stay alert.,310,1,100,High,19.218,72.978
+Ambernath,43:44.2,28.2,73,246.2,998.8,12.9,0.18,High,Medium,High,28.2,28.2,,Stay alert.,246.2,1,100,High,19.186,73.191
+Murbad,46:53.9,31.7,69,208.4,1012,5.9,0.67,High,Medium,Medium,31.7,31.7,,Stay alert.,208.4,0,100,High,19.250,73.400
+Murbad,10:21.9,35.3,88,207.5,1013.4,14.3,1.01,High,Medium,Medium,35.3,35.3,,Stay alert.,207.5,0,100,High,19.250,73.400
+Mira-Bhayandar,26:36.1,35.5,80,98.8,1005.5,5.8,1.45,Medium,Medium,Medium,35.5,35.5,,Stay alert.,0,0,100,Medium,19.295,72.854
+Ulhasnagar,43:49.1,32.3,94,325.4,990.3,33.2,1.55,High,High,High,32.3,32.3,,Stay alert.,325.4,0,100,High,19.216,73.150
+Bhiwandi,15:20.8,31.4,83,40.5,999.4,23.6,1.69,High,High,High,31.4,31.4,,Stay alert.,0,1,100,High,19.296,73.063
+Ambernath,45:09.2,24.5,76,71.5,1011.8,18.5,0.8,Medium,Medium,Medium,24.5,24.5,,Stay alert.,0,1,100,Medium,19.186,73.191
+Thane City,44:52.2,34.4,92,194.2,1011.2,9.3,0.44,Medium,Medium,Medium,34.4,34.4,,Stay alert.,194.2,0,100,Medium,19.218,72.978
+Murbad,42:11.6,34.1,85,131,993,5.2,0.34,Medium,Medium,Medium,34.1,34.1,,Stay alert.,131,0,100,Medium,19.250,73.400
+Thane City,26:46.2,30.7,86,345.5,1001.9,21.4,1.11,High,High,High,30.7,30.7,,Stay alert.,345.5,1,100,High,19.218,72.978
+Bhiwandi,09:22.4,28.9,93,253,999.9,8.2,1.84,High,High,High,28.9,28.9,,Stay alert.,253,0,100,High,19.296,73.063
+Bhiwandi,33:06.3,31.5,97,192.1,1004.4,5.5,0.49,Medium,Medium,Medium,31.5,31.5,,Stay alert.,192.1,1,100,Medium,19.296,73.063
+Ulhasnagar,42:12.0,32,77,237.9,1010.4,6,1.66,High,High,High,32,32,,Stay alert.,237.9,1,100,High,19.216,73.150
+Kalyan,35:35.3,24.4,98,226.6,1004.2,1.8,1.32,High,Medium,High,24.4,24.4,,Stay alert.,226.6,1,100,High,19.243,73.080
+Ulhasnagar,32:09.7,29.5,91,307.5,995.4,25.3,0.55,High,High,High,29.5,29.5,,Stay alert.,307.5,0,100,High,19.216,73.150
+Murbad,50:22.3,26,63,58.3,1014.6,5.6,1.34,Medium,Medium,Medium,26,26,,Stay alert.,0,0,100,Medium,19.250,73.400
+Shahapur,21:00.7,28.4,62,317.9,1014.4,11,0.93,High,High,High,28.4,28.4,,Stay alert.,317.9,0,100,High,19.450,73.330
+Thane City,21:46.0,30.8,98,152.5,1014.1,13.6,0.47,Medium,Medium,Medium,30.8,30.8,,Stay alert.,152.5,1,100,Medium,19.218,72.978
+Ulhasnagar,19:38.1,34.7,76,267.1,997.6,18.1,0.84,High,High,High,34.7,34.7,,Stay alert.,267.1,0,100,High,19.216,73.150
+Thane City,01:56.0,34.2,96,1.7,997.3,24.2,1.02,Medium,Medium,Medium,34.2,34.2,,Stay alert.,0,1,100,Medium,19.218,72.978
+Thane City,32:08.3,33.3,84,199.2,1014.8,16.2,0.09,Medium,Medium,Medium,33.3,33.3,,Stay alert.,199.2,1,100,Medium,19.218,72.978
+Kalyan,09:01.4,33.5,84,103,1000.3,24.6,0.37,Medium,Medium,Medium,33.5,33.5,,Stay alert.,103,1,100,Medium,19.243,73.080
+Ambernath,10:30.0,25.7,85,155.2,1008.2,28,1.34,Medium,Medium,Medium,25.7,25.7,,Stay alert.,155.2,0,100,Medium,19.186,73.191
+Murbad,09:08.8,28.5,81,132.5,993.4,10.6,0.85,Medium,Medium,Medium,28.5,28.5,,Stay alert.,132.5,0,100,Medium,19.250,73.400
+Kalyan,15:50.3,26.4,97,326.7,991.2,33.6,1.1,High,High,High,26.4,26.4,,Stay alert.,326.7,1,100,High,19.243,73.080
+Bhiwandi,50:28.5,29,77,104.5,1009.7,10.1,1.64,High,High,High,29,29,,Stay alert.,104.5,1,100,High,19.296,73.063
+Kalyan,04:44.2,34.2,90,176.6,990.5,33.2,1.99,High,High,High,34.2,34.2,,Stay alert.,176.6,1,100,High,19.243,73.080
+Dombivli,35:43.8,28.1,86,123,1002,27.6,1.99,High,High,High,28.1,28.1,,Stay alert.,123,0,100,High,19.218,73.087
+Shahapur,56:43.6,30.5,67,224.9,1009.8,19.6,0.97,High,Medium,High,30.5,30.5,,Stay alert.,224.9,0,100,High,19.450,73.330
+Kalyan,00:01.7,30.7,69,113,1011.4,2.3,0.39,Medium,Medium,Medium,30.7,30.7,,Stay alert.,113,1,100,Medium,19.243,73.080
+Ulhasnagar,48:23.3,32.3,66,116.4,1003.8,5.5,1.64,High,High,High,32.3,32.3,,Stay alert.,116.4,1,100,High,19.216,73.150
+Kalyan,57:51.2,24.2,96,250.5,1004.2,28.1,0.51,High,High,High,24.2,24.2,,Stay alert.,250.5,1,100,High,19.243,73.080
+Mira-Bhayandar,37:04.2,24.4,83,78.7,1011.7,1.1,0.03,Medium,Medium,Medium,24.4,24.4,,Stay alert.,0,1,100,Medium,19.295,72.854
+Kalyan,38:51.6,34.2,76,150.6,1010.1,27.8,0.85,Medium,Medium,Medium,34.2,34.2,,Stay alert.,150.6,0,100,Medium,19.243,73.080
+Bhiwandi,53:36.6,29.3,74,95,1008.4,27.7,0.85,Medium,Medium,Medium,29.3,29.3,,Stay alert.,0,1,100,Medium,19.296,73.063
+Ambernath,26:42.4,32.5,93,259.9,990.2,30.4,1.32,High,High,High,32.5,32.5,,Stay alert.,259.9,1,100,High,19.186,73.191
+Dombivli,13:18.5,28.7,64,33.6,1014.9,26.1,0.6,Low,Low,Low,28.7,28.7,,Stay alert.,0,0,100,Low,19.218,73.087
+Kalyan,50:09.7,29.4,61,21.1,1014.3,0.9,0.78,Low,Low,Low,29.4,29.4,,Stay alert.,0,1,100,Low,19.243,73.080
+Dombivli,56:21.8,34.1,84,3.5,1005.6,34.1,0.46,Low,Low,Low,34.1,34.1,,Stay alert.,0,0,100,Low,19.218,73.087
+Ambernath,33:14.1,35.1,80,85.6,992.7,0.2,1.71,High,High,High,35.1,35.1,,Stay alert.,0,0,100,High,19.186,73.191
+Murbad,46:39.4,28.3,94,152.9,1013.9,9.2,0.32,Medium,Medium,Medium,28.3,28.3,,Stay alert.,152.9,0,100,Medium,19.250,73.400
+Shahapur,32:33.6,30.1,85,284.7,1000.2,33.3,0.26,High,High,High,30.1,30.1,,Stay alert.,284.7,0,100,High,19.450,73.330
+Dombivli,06:19.1,27.8,65,187.5,998.7,16.6,0.59,Medium,Medium,Medium,27.8,27.8,,Stay alert.,187.5,0,100,Medium,19.218,73.087
+Murbad,05:34.7,35.4,90,116,1006.5,2.8,1.36,Medium,Medium,Medium,35.4,35.4,,Stay alert.,116,0,100,Medium,19.250,73.400
+Kalyan,58:56.3,27.6,82,344,991.8,19.2,0.79,High,High,High,27.6,27.6,,Stay alert.,344,1,100,High,19.243,73.080
+Ambernath,09:49.3,31.2,83,251.8,1005.9,1.6,0.46,High,High,High,31.2,31.2,,Stay alert.,251.8,1,100,High,19.186,73.191
+Kalyan,58:52.4,24.1,96,90.4,1009.7,7.6,1.8,High,High,High,24.1,24.1,,Stay alert.,0,1,100,High,19.243,73.080
+Thane City,36:14.9,27.6,62,36.9,992.3,14.3,0.98,Low,Low,Low,27.6,27.6,,Stay alert.,0,0,100,Low,19.218,72.978
+Dombivli,29:36.2,30,96,52.4,1010.4,15.1,0.98,Medium,Low,Low,30,30,,Stay alert.,0,1,100,Medium,19.218,73.087
+Murbad,48:27.3,33.3,86,26.3,992.4,6.6,1.34,Medium,Medium,Medium,33.3,33.3,,Stay alert.,0,1,100,Medium,19.250,73.400
+Bhiwandi,19:01.3,34.5,70,259,998.5,28,1.58,High,High,High,34.5,34.5,,Stay alert.,259,1,100,High,19.296,73.063
+Mira-Bhayandar,58:32.1,26.1,87,258.9,1014.6,31.1,1.61,High,High,High,26.1,26.1,,Stay alert.,258.9,0,100,High,19.295,72.854
+Murbad,56:07.0,25.6,89,288,1003.3,32.1,0.23,High,High,High,25.6,25.6,,Stay alert.,288,1,100,High,19.250,73.400
+Ulhasnagar,23:10.9,35.9,91,53.3,993.1,18.4,1.06,Medium,Medium,Medium,35.9,35.9,,Stay alert.,0,1,100,Medium,19.216,73.150
+Ambernath,06:04.2,32,88,12.5,1012.1,7.9,0.42,Low,Low,Low,32,32,,Stay alert.,0,1,100,Low,19.186,73.191
+Dombivli,00:46.8,26.7,93,64,1001.7,31.3,0.2,Medium,Medium,Medium,26.7,26.7,,Stay alert.,0,1,100,Medium,19.218,73.087
+Thane City,38:52.2,28.1,90,232.3,993.8,24.3,0.69,High,Medium,High,28.1,28.1,,Stay alert.,232.3,1,100,High,19.218,72.978
+Murbad,11:33.5,27.3,74,115.4,996.1,4.6,1.95,High,High,High,27.3,27.3,,Stay alert.,115.4,1,100,High,19.250,73.400
+Thane City,54:47.1,32.7,74,282.4,994.1,29.5,1.58,High,High,High,32.7,32.7,,Stay alert.,282.4,0,100,High,19.218,72.978
+Thane City,21:52.4,31.6,94,282,1007.2,4.3,1.78,High,High,High,31.6,31.6,,Stay alert.,282,1,100,High,19.218,72.978
+Shahapur,13:19.6,25.5,60,147,1014,10.2,0.45,Medium,Medium,Medium,25.5,25.5,,Stay alert.,147,1,100,Medium,19.450,73.330
+Thane City,26:28.8,31.2,66,89.3,1011.1,15.9,1.29,Medium,Medium,Medium,31.2,31.2,,Stay alert.,0,1,100,Medium,19.218,72.978
+Ulhasnagar,29:10.3,32.7,61,199.4,1000.4,21.1,0.12,Medium,Medium,Medium,32.7,32.7,,Stay alert.,199.4,1,100,Medium,19.216,73.150
+Dombivli,59:00.0,27.2,65,151.2,1009.3,5.6,1.88,High,High,High,27.2,27.2,,Stay alert.,151.2,0,100,High,19.218,73.087
+Thane City,21:24.5,31.1,88,181.6,993.9,6.9,1.48,Medium,Medium,Medium,31.1,31.1,,Stay alert.,181.6,1,100,Medium,19.218,72.978
+Shahapur,36:40.3,27.8,79,318.6,1010.3,2.8,0.98,High,High,High,27.8,27.8,,Stay alert.,318.6,0,100,High,19.450,73.330
+Murbad,12:17.4,32.8,71,300.8,997.1,34.4,0.79,High,High,High,32.8,32.8,,Stay alert.,300.8,1,100,High,19.250,73.400
+Shahapur,07:44.9,34.8,85,227.2,1002.3,1.1,0.65,High,Medium,High,34.8,34.8,,Stay alert.,227.2,0,100,High,19.450,73.330
+Ulhasnagar,01:48.1,27.2,76,66.4,1005.9,30.9,1.48,Medium,Medium,Medium,27.2,27.2,,Stay alert.,0,0,100,Medium,19.216,73.150
+Murbad,01:00.0,30.3,97,119.2,1003.8,11,1.65,High,High,High,30.3,30.3,,Stay alert.,119.2,0,100,High,19.250,73.400
+Ambernath,17:10.1,24.4,85,271.6,1003,1.2,0.47,High,High,High,24.4,24.4,,Stay alert.,271.6,1,100,High,19.186,73.191
+Ambernath,01:09.3,27.8,72,258.2,1011.3,21.6,1.04,High,High,High,27.8,27.8,,Stay alert.,258.2,0,100,High,19.186,73.191
+Shahapur,23:43.7,34.7,62,202.6,1011.9,8.5,1.78,High,High,High,34.7,34.7,,Stay alert.,202.6,0,100,High,19.450,73.330
+Shahapur,04:37.9,26.3,93,81.1,994,29.3,0.63,Medium,Medium,Medium,26.3,26.3,,Stay alert.,0,1,100,Medium,19.450,73.330
+Mira-Bhayandar,46:25.8,32,75,296.3,1011.5,1,0.53,High,High,High,32,32,,Stay alert.,296.3,1,100,High,19.295,72.854
+Bhiwandi,56:05.3,28.5,63,184.3,996.4,19.3,1.71,High,High,High,28.5,28.5,,Stay alert.,184.3,0,100,High,19.296,73.063
+Thane City,55:28.4,35.8,73,58.9,993.1,1.2,0.14,Medium,Low,Medium,35.8,35.8,,Stay alert.,0,0,100,Medium,19.218,72.978
+Shahapur,44:32.1,26.8,76,126.5,992,26.3,0.38,Medium,Medium,Medium,26.8,26.8,,Stay alert.,126.5,0,100,Medium,19.450,73.330
+Ambernath,39:10.2,32.8,64,74.6,998.3,27,1.14,Medium,Medium,Medium,32.8,32.8,,Stay alert.,0,0,100,Medium,19.186,73.191
+Mira-Bhayandar,11:44.4,24.4,73,114.4,1010.5,13,1.06,Medium,Medium,Medium,24.4,24.4,,Stay alert.,114.4,0,100,Medium,19.295,72.854
+Bhiwandi,11:53.8,31.8,69,71.4,991.3,20.1,0.28,Medium,Medium,Medium,31.8,31.8,,Stay alert.,0,1,100,Medium,19.296,73.063
+Bhiwandi,23:31.9,30,85,164.9,1006.3,7.2,1.88,High,High,High,30,30,,Stay alert.,164.9,0,100,High,19.296,73.063
+Ambernath,25:26.7,28.1,66,227.4,1000.7,10.6,1.3,High,Medium,High,28.1,28.1,,Stay alert.,227.4,1,100,High,19.186,73.191
+Ambernath,20:53.0,24.4,80,165.6,1013,10.2,1.53,High,High,High,24.4,24.4,,Stay alert.,165.6,1,100,High,19.186,73.191
+Bhiwandi,22:51.2,32.5,91,271.4,1005.3,24.8,0.54,High,High,High,32.5,32.5,,Stay alert.,271.4,0,100,High,19.296,73.063
+Mira-Bhayandar,20:33.1,26.2,90,170.9,999.5,24.2,0.6,Medium,Medium,Medium,26.2,26.2,,Stay alert.,170.9,0,100,Medium,19.295,72.854
+Thane City,14:45.9,34.9,61,130.2,1013.3,7.4,1.24,Medium,Medium,Medium,34.9,34.9,,Stay alert.,130.2,1,100,Medium,19.218,72.978
+Murbad,02:19.8,24.9,96,198.5,1003.8,0.4,0.3,Medium,Medium,Medium,24.9,24.9,,Stay alert.,198.5,1,100,Medium,19.250,73.400
+Thane City,53:48.6,35.6,79,311,990.6,20.5,0.13,High,High,High,35.6,35.6,,Stay alert.,311,0,100,High,19.218,72.978
+Bhiwandi,24:44.2,28.3,72,280.1,998.1,26.6,1.68,High,High,High,28.3,28.3,,Stay alert.,280.1,1,100,High,19.296,73.063
+Murbad,51:21.6,28,71,163.7,1013.7,23.6,0.72,Medium,Medium,Medium,28,28,,Stay alert.,163.7,1,100,Medium,19.250,73.400
+Mira-Bhayandar,20:08.9,28.4,97,278.7,1015,31.6,0.51,High,High,High,28.4,28.4,,Stay alert.,278.7,1,100,High,19.295,72.854
+Kalyan,24:54.6,24.1,84,338.4,1011.9,9.5,0.93,High,High,High,24.1,24.1,,Stay alert.,338.4,1,100,High,19.243,73.080
+Bhiwandi,05:28.7,29.8,98,303.4,1009.9,8.4,1.32,High,High,High,29.8,29.8,,Stay alert.,303.4,0,100,High,19.296,73.063
+Ulhasnagar,47:37.9,35.1,79,299.3,995.6,23.1,1.56,High,High,High,35.1,35.1,,Stay alert.,299.3,0,100,High,19.216,73.150
+Ulhasnagar,12:10.7,35.1,90,340.1,994.4,34.1,0.35,High,High,High,35.1,35.1,,Stay alert.,340.1,1,100,High,19.216,73.150
+Ambernath,41:23.4,31.4,64,87.4,1008.6,32.7,0.76,Medium,Medium,Medium,31.4,31.4,,Stay alert.,0,1,100,Medium,19.186,73.191
+Shahapur,33:09.7,26,60,112.1,990.5,4.7,1.29,Medium,Medium,Medium,26,26,,Stay alert.,112.1,1,100,Medium,19.450,73.330
+Bhiwandi,06:04.9,33.4,78,347,1010.3,26.3,0.26,High,High,High,33.4,33.4,,Stay alert.,347,0,100,High,19.296,73.063
+Ambernath,41:13.9,25.6,86,289.4,995.4,21,0.92,High,High,High,25.6,25.6,,Stay alert.,289.4,1,100,High,19.186,73.191
+Shahapur,59:05.9,32.1,81,311.9,993.4,1.7,0.86,High,High,High,32.1,32.1,,Stay alert.,311.9,1,100,High,19.450,73.330
+Kalyan,08:08.1,31.3,82,16.4,1007.1,2.2,1.12,Medium,Medium,Medium,31.3,31.3,,Stay alert.,0,0,100,Medium,19.243,73.080
+Ambernath,48:10.6,25.7,78,117.3,993.7,6.5,0.73,Medium,Medium,Medium,25.7,25.7,,Stay alert.,117.3,1,100,Medium,19.186,73.191
+Kalyan,13:00.3,35.9,69,13.2,999.9,29,1.74,High,High,High,35.9,35.9,,Stay alert.,0,0,100,High,19.243,73.080
+Murbad,54:28.1,29.3,70,83.5,1007.5,0.9,0.49,Medium,Medium,Medium,29.3,29.3,,Stay alert.,0,1,100,Medium,19.250,73.400
+Thane City,27:19.0,25.8,74,267.4,1002.9,20.4,0.34,High,High,High,25.8,25.8,,Stay alert.,267.4,0,100,High,19.218,72.978
+Mira-Bhayandar,24:52.0,26.4,95,329.1,1002.6,13.3,1.65,High,High,High,26.4,26.4,,Stay alert.,329.1,0,100,High,19.295,72.854
+Thane City,40:28.5,32.6,60,340.9,994.3,16.4,1.38,High,High,High,32.6,32.6,,Stay alert.,340.9,1,100,High,19.218,72.978
+Ulhasnagar,28:19.8,28.5,61,339.8,1000.6,13.4,0.9,High,High,High,28.5,28.5,,Stay alert.,339.8,1,100,High,19.216,73.150
+Ulhasnagar,43:20.7,25.8,79,4.8,1010.9,16,0.86,Low,Low,Low,25.8,25.8,,Stay alert.,0,1,100,Low,19.216,73.150
+Ambernath,14:21.9,33.3,96,142,1008.8,22.1,0.63,Medium,Medium,Medium,33.3,33.3,,Stay alert.,142,1,100,Medium,19.186,73.191
+Ulhasnagar,39:28.6,34.1,81,288.1,992.8,19.5,1.73,High,High,High,34.1,34.1,,Stay alert.,288.1,0,100,High,19.216,73.150
+Bhiwandi,54:09.7,35.4,68,33.3,993.4,27.3,0.01,Low,Low,Low,35.4,35.4,,Stay alert.,0,1,100,Low,19.296,73.063
+Thane City,09:27.0,35.3,88,112.8,1000.5,26.2,0.38,Medium,Medium,Medium,35.3,35.3,,Stay alert.,112.8,0,100,Medium,19.218,72.978
+Kalyan,28:47.6,27.7,74,102.4,1010.6,3.4,0.28,Medium,Medium,Medium,27.7,27.7,,Stay alert.,102.4,0,100,Medium,19.243,73.080
+Bhiwandi,42:20.9,27.6,80,36.7,1001.6,21.3,0.44,Low,Low,Low,27.6,27.6,,Stay alert.,0,0,100,Low,19.296,73.063
+Shahapur,14:37.4,31.6,87,316.7,1009,30.3,0.57,High,High,High,31.6,31.6,,Stay alert.,316.7,1,100,High,19.450,73.330
+Ambernath,12:31.8,32.1,98,171.9,1009.3,15.7,1.55,High,High,High,32.1,32.1,,Stay alert.,171.9,1,100,High,19.186,73.191
+Ambernath,42:48.9,27.6,67,265.6,1010.4,29,1.78,High,High,High,27.6,27.6,,Stay alert.,265.6,0,100,High,19.186,73.191
+Ambernath,19:28.0,29,71,124.7,991.6,31.6,1.38,Medium,Medium,Medium,29,29,,Stay alert.,124.7,0,100,Medium,19.186,73.191
+Mira-Bhayandar,32:08.5,34.3,85,246.7,1010.4,15.8,1.59,High,High,High,34.3,34.3,,Stay alert.,246.7,1,100,High,19.295,72.854
+Ambernath,56:00.4,31,79,111.3,1014.9,9,0.24,Medium,Medium,Medium,31,31,,Stay alert.,111.3,1,100,Medium,19.186,73.191
+Dombivli,41:30.2,28,71,19.5,1010.7,17.7,0.04,Low,Low,Low,28,28,,Stay alert.,0,0,100,Low,19.218,73.087
+Mira-Bhayandar,22:56.8,24.7,89,210.3,997.6,9.1,1.26,High,Medium,Medium,24.7,24.7,,Stay alert.,210.3,1,100,High,19.295,72.854
+Dombivli,28:50.1,35,68,170.6,1002.5,20.2,0.87,Medium,Medium,Medium,35,35,,Stay alert.,170.6,1,100,Medium,19.218,73.087
+Thane City,46:31.2,31.5,63,68.8,1007.7,30.3,0.49,Medium,Medium,Medium,31.5,31.5,,Stay alert.,0,1,100,Medium,19.218,72.978
+Shahapur,46:02.4,32.1,66,300.4,1011.5,17.1,0.26,High,High,High,32.1,32.1,,Stay alert.,300.4,1,100,High,19.450,73.330
+Ulhasnagar,37:46.0,24.5,68,85.2,1004.3,25.3,1.78,High,High,High,24.5,24.5,,Stay alert.,0,0,100,High,19.216,73.150
+Ambernath,51:36.8,31.4,86,255.2,1004.2,6.2,1.53,High,High,High,31.4,31.4,,Stay alert.,255.2,1,100,High,19.186,73.191
+Ambernath,36:07.6,30,92,5.4,1012.4,8.8,1.84,High,High,High,30,30,,Stay alert.,0,0,100,High,19.186,73.191
+Kalyan,20:44.6,29.1,62,299.9,1003.6,7.7,0.45,High,High,High,29.1,29.1,,Stay alert.,299.9,1,100,High,19.243,73.080
+Kalyan,09:26.1,29.1,73,231.4,1008.5,5.3,0.94,High,Medium,High,29.1,29.1,,Stay alert.,231.4,1,100,High,19.243,73.080
+Kalyan,01:00.9,31.6,93,314.5,1005.9,0.5,0.01,High,High,High,31.6,31.6,,Stay alert.,314.5,0,100,High,19.243,73.080
+Thane City,51:57.2,26,87,101.1,1002.6,21.4,0.97,Medium,Medium,Medium,26,26,,Stay alert.,101.1,0,100,Medium,19.218,72.978
+Bhiwandi,58:13.4,32.2,77,175.4,992.4,22.4,1.14,Medium,Medium,Medium,32.2,32.2,,Stay alert.,175.4,1,100,Medium,19.296,73.063
+Ambernath,47:40.1,30.7,94,207.7,993.4,31.8,0.99,High,Medium,Medium,30.7,30.7,,Stay alert.,207.7,1,100,High,19.186,73.191
+Thane City,16:52.0,25.7,61,259.4,1010,18.1,0.49,High,High,High,25.7,25.7,,Stay alert.,259.4,1,100,High,19.218,72.978
+Murbad,31:08.5,30.7,70,309.1,991.8,28.7,0.54,High,High,High,30.7,30.7,,Stay alert.,309.1,1,100,High,19.250,73.400
+Shahapur,20:39.6,29.9,95,209.4,1012.9,14.2,0.13,High,Medium,Medium,29.9,29.9,,Stay alert.,209.4,1,100,High,19.450,73.330
+Kalyan,04:39.1,32.1,90,128.5,1003.2,15.9,0.82,Medium,Medium,Medium,32.1,32.1,,Stay alert.,128.5,1,100,Medium,19.243,73.080
+Kalyan,11:39.3,27.3,87,25.3,1002.6,23.6,0.34,Low,Low,Low,27.3,27.3,,Stay alert.,0,1,100,Low,19.243,73.080
+Dombivli,18:19.6,31,91,205.9,997.4,22.7,0.06,High,Medium,Medium,31,31,,Stay alert.,205.9,1,100,High,19.218,73.087
+Dombivli,51:02.6,26.3,96,44.3,1011.3,18.7,0.43,Low,Low,Low,26.3,26.3,,Stay alert.,0,0,100,Low,19.218,73.087
+Ulhasnagar,33:18.2,31.8,80,336.5,991.2,0.8,0.3,High,High,High,31.8,31.8,,Stay alert.,336.5,1,100,High,19.216,73.150
+Kalyan,59:39.6,28.9,78,118.9,1001.8,19.4,1.28,Medium,Medium,Medium,28.9,28.9,,Stay alert.,118.9,1,100,Medium,19.243,73.080
+Mira-Bhayandar,14:35.3,36,76,109.9,993.7,9.9,0.28,Medium,Medium,Medium,36,36,,Stay alert.,109.9,1,100,Medium,19.295,72.854
+Thane City,42:25.0,32.7,76,67.5,999.6,7.6,0.54,Medium,Medium,Medium,32.7,32.7,,Stay alert.,0,0,100,Medium,19.218,72.978
+Murbad,06:01.2,25.2,67,19.4,1008,16.8,0.26,Low,Low,Low,25.2,25.2,,Stay alert.,0,0,100,Low,19.250,73.400
+Mira-Bhayandar,06:17.3,24.8,79,171.9,1001.7,17.4,1.96,High,High,High,24.8,24.8,,Stay alert.,171.9,1,100,High,19.295,72.854
+Ulhasnagar,56:19.6,33.5,76,280.2,1012.7,25.6,0.19,High,High,High,33.5,33.5,,Stay alert.,280.2,0,100,High,19.216,73.150
+Bhiwandi,18:00.0,31,97,202.1,1009.9,32,0.91,High,Medium,Medium,31,31,,Stay alert.,202.1,1,100,High,19.296,73.063
+Ulhasnagar,42:06.2,32.3,84,227.9,999.6,4.4,1.71,High,High,High,32.3,32.3,,Stay alert.,227.9,0,100,High,19.216,73.150
+Murbad,41:55.9,25.9,90,200.3,995.2,26.9,1.63,High,High,High,25.9,25.9,,Stay alert.,200.3,1,100,High,19.250,73.400
+Dombivli,48:57.3,24.6,89,3.9,999.2,33.6,1.62,High,High,High,24.6,24.6,,Stay alert.,0,0,100,High,19.218,73.087
+Mira-Bhayandar,55:29.4,25.9,77,74.9,1007.2,10.9,1.45,Medium,Medium,Medium,25.9,25.9,,Stay alert.,0,1,100,Medium,19.295,72.854
+Shahapur,43:50.5,34.9,95,243.7,990,9.2,0.18,High,Medium,High,34.9,34.9,,Stay alert.,243.7,1,100,High,19.450,73.330
+Ulhasnagar,59:22.4,31.7,91,135.7,1014.7,31.8,0.98,Medium,Medium,Medium,31.7,31.7,,Stay alert.,135.7,0,100,Medium,19.216,73.150
+Kalyan,14:22.3,27.5,92,330,1009.9,23.1,1.73,High,High,High,27.5,27.5,,Stay alert.,330,1,100,High,19.243,73.080
+Bhiwandi,43:55.0,35.1,66,76.1,1012,34.9,0.91,Medium,Medium,Medium,35.1,35.1,,Stay alert.,0,1,100,Medium,19.296,73.063
+Shahapur,20:43.7,32.6,86,210.9,999.7,31.4,1.95,High,High,High,32.6,32.6,,Stay alert.,210.9,1,100,High,19.450,73.330
+Bhiwandi,21:55.5,31,69,156.4,1013,21.1,1.95,High,High,High,31,31,,Stay alert.,156.4,1,100,High,19.296,73.063
+Bhiwandi,32:29.7,32.5,79,46.8,1010.1,15.5,1.66,High,High,High,32.5,32.5,,Stay alert.,0,1,100,High,19.296,73.063
+Shahapur,16:03.5,31.5,67,247.7,997.8,1.4,0.39,High,Medium,High,31.5,31.5,,Stay alert.,247.7,0,100,High,19.450,73.330
+Ambernath,50:22.0,24.6,90,102.2,1010.7,24.6,1.57,High,High,High,24.6,24.6,,Stay alert.,102.2,1,100,High,19.186,73.191
+Dombivli,50:33.8,27.6,87,66.8,1002.6,22.2,0.97,Medium,Medium,Medium,27.6,27.6,,Stay alert.,0,1,100,Medium,19.218,73.087
+Kalyan,35:57.9,32.7,98,143.9,997,33.5,1.62,High,High,High,32.7,32.7,,Stay alert.,143.9,0,100,High,19.243,73.080
+Ambernath,06:13.4,27.2,66,210.7,999.6,15.3,0.67,High,Medium,Medium,27.2,27.2,,Stay alert.,210.7,1,100,High,19.186,73.191
+Shahapur,24:49.7,28.8,62,43.1,1002.2,25.5,1.85,High,High,High,28.8,28.8,,Stay alert.,0,0,100,High,19.450,73.330
+Shahapur,48:05.7,28.7,78,348.6,1006,3,0.42,High,High,High,28.7,28.7,,Stay alert.,348.6,0,100,High,19.450,73.330
+Shahapur,08:51.2,33.5,76,248.4,1008.3,0.5,1.47,High,Medium,High,33.5,33.5,,Stay alert.,248.4,1,100,High,19.450,73.330
+Kalyan,58:50.1,34.3,79,26.6,1004.9,9.5,1.53,High,High,High,34.3,34.3,,Stay alert.,0,1,100,High,19.243,73.080
+Mira-Bhayandar,09:52.5,26.5,89,35.6,990,18.7,0.48,Low,Low,Low,26.5,26.5,,Stay alert.,0,1,100,Low,19.295,72.854
+Bhiwandi,10:26.0,25.2,90,198.3,994,18.2,0.06,Medium,Medium,Medium,25.2,25.2,,Stay alert.,198.3,1,100,Medium,19.296,73.063
+Ulhasnagar,54:57.8,26.7,98,158.2,993.2,4.2,1.15,Medium,Medium,Medium,26.7,26.7,,Stay alert.,158.2,1,100,Medium,19.216,73.150
+Ambernath,52:32.4,28.3,75,71.1,1014.1,26.3,0.01,Medium,Medium,Medium,28.3,28.3,,Stay alert.,0,0,100,Medium,19.186,73.191
+Dombivli,53:32.9,28.4,90,12.6,996,31.5,0.49,Low,Low,Low,28.4,28.4,,Stay alert.,0,0,100,Low,19.218,73.087
+Shahapur,30:23.5,32.2,66,105.8,992.6,31,1.24,Medium,Medium,Medium,32.2,32.2,,Stay alert.,105.8,1,100,Medium,19.450,73.330
+Ulhasnagar,13:00.8,35.9,82,159.4,1007.9,33.6,0.61,Medium,Medium,Medium,35.9,35.9,,Stay alert.,159.4,1,100,Medium,19.216,73.150
+Murbad,43:54.4,26.2,93,159.3,1004.1,10,0.87,Medium,Medium,Medium,26.2,26.2,,Stay alert.,159.3,1,100,Medium,19.250,73.400
+Ambernath,08:19.9,32.1,90,101.2,1001.2,30.7,0.49,Medium,Medium,Medium,32.1,32.1,,Stay alert.,101.2,0,100,Medium,19.186,73.191
+Dombivli,15:01.4,27.4,89,95.8,994.5,28.5,1.29,Medium,Medium,Medium,27.4,27.4,,Stay alert.,0,1,100,Medium,19.218,73.087
+Thane City,57:11.2,30.1,81,267.1,1007.6,4,1.73,High,High,High,30.1,30.1,,Stay alert.,267.1,0,100,High,19.218,72.978
+Kalyan,29:59.3,30.2,87,237.7,1005.5,22,0.63,High,Medium,High,30.2,30.2,,Stay alert.,237.7,0,100,High,19.243,73.080
+Kalyan,29:35.7,31.3,61,26,1013.5,29.2,0.85,Low,Low,Low,31.3,31.3,,Stay alert.,0,0,100,Low,19.243,73.080
+Mira-Bhayandar,36:32.6,33.1,85,101.2,993.1,16.7,0.57,Medium,Medium,Medium,33.1,33.1,,Stay alert.,101.2,1,100,Medium,19.295,72.854
+Dombivli,05:51.5,31.3,66,52.9,1013.1,33.5,1.17,Medium,Medium,Medium,31.3,31.3,,Stay alert.,0,1,100,Medium,19.218,73.087
+Shahapur,44:41.6,30.4,77,282.6,995.4,28.5,1.89,High,High,High,30.4,30.4,,Stay alert.,282.6,0,100,High,19.450,73.330
+Ambernath,22:33.0,34,74,27.9,1006,17.4,0.96,Low,Low,Low,34,34,,Stay alert.,0,1,100,Low,19.186,73.191
+Mira-Bhayandar,48:58.1,27.1,95,131.6,991.4,24.6,1.55,High,High,High,27.1,27.1,,Stay alert.,131.6,1,100,High,19.295,72.854
+Dombivli,02:24.1,33.7,75,79.5,990.9,12.9,0.1,Medium,Medium,Medium,33.7,33.7,,Stay alert.,0,0,100,Medium,19.218,73.087
+Murbad,33:35.6,33.6,97,327.4,1006.1,24.3,0.8,High,High,High,33.6,33.6,,Stay alert.,327.4,1,100,High,19.250,73.400
+Kalyan,28:45.5,25.7,67,137.8,1003.6,3.6,0.81,Medium,Medium,Medium,25.7,25.7,,Stay alert.,137.8,1,100,Medium,19.243,73.080
+Ulhasnagar,13:32.2,31,65,19.2,993.9,29.4,0.54,Low,Low,Low,31,31,,Stay alert.,0,1,100,Low,19.216,73.150
+Ulhasnagar,56:29.3,24.2,72,170.4,1008.5,34.6,1.29,Medium,Medium,Medium,24.2,24.2,,Stay alert.,170.4,0,100,Medium,19.216,73.150
+Kalyan,28:48.4,24.3,78,245.2,1002.3,7.8,1.66,High,High,High,24.3,24.3,,Stay alert.,245.2,0,100,High,19.243,73.080
+Dombivli,19:59.0,28.1,69,211.6,1006.4,10.5,0.46,High,Medium,Medium,28.1,28.1,,Stay alert.,211.6,1,100,High,19.218,73.087
+Kalyan,13:02.1,27.8,84,240.7,992.8,22.1,0.42,High,Medium,High,27.8,27.8,,Stay alert.,240.7,0,100,High,19.243,73.080
+Mira-Bhayandar,09:21.6,30,76,97.8,990.4,1.2,1.73,High,High,High,30,30,,Stay alert.,0,1,100,High,19.295,72.854
+Mira-Bhayandar,58:28.4,28.2,97,206.5,1008,4,1.44,High,Medium,Medium,28.2,28.2,,Stay alert.,206.5,1,100,High,19.295,72.854
+Thane City,04:07.1,32.2,74,14.8,1008.4,5,1.75,High,High,High,32.2,32.2,,Stay alert.,0,1,100,High,19.218,72.978
+Ambernath,02:54.2,26,67,16.2,998.2,23.2,1.28,Medium,Medium,Medium,26,26,,Stay alert.,0,0,100,Medium,19.186,73.191
+Kalyan,30:51.5,28.5,68,283.5,1006.2,21.6,0.74,High,High,High,28.5,28.5,,Stay alert.,283.5,1,100,High,19.243,73.080
+Ulhasnagar,07:46.2,25.1,75,146,999.4,24.3,0.06,Medium,Medium,Medium,25.1,25.1,,Stay alert.,146,0,100,Medium,19.216,73.150
+Bhiwandi,57:02.9,32.9,69,44.9,1012.8,34,0.57,Low,Low,Low,32.9,32.9,,Stay alert.,0,1,100,Low,19.296,73.063
+Kalyan,08:27.1,28.6,85,285.6,1008.9,32,1.42,High,High,High,28.6,28.6,,Stay alert.,285.6,1,100,High,19.243,73.080
+Shahapur,30:35.7,27.5,69,126.1,999.6,7.5,1.87,High,High,High,27.5,27.5,,Stay alert.,126.1,1,100,High,19.450,73.330
+Kalyan,05:52.4,35.4,72,227.6,1008.5,19.7,0.3,High,Medium,High,35.4,35.4,,Stay alert.,227.6,1,100,High,19.243,73.080
+Kalyan,12:27.7,25.2,85,324.2,1010,25.6,0.03,High,High,High,25.2,25.2,,Stay alert.,324.2,1,100,High,19.243,73.080
+Ulhasnagar,42:27.7,33.9,67,59.4,993.8,31.3,0.1,Medium,Low,Medium,33.9,33.9,,Stay alert.,0,1,100,Medium,19.216,73.150
+Dombivli,37:31.2,34.4,65,14.4,999.9,19.4,1.49,Medium,Medium,Medium,34.4,34.4,,Stay alert.,0,1,100,Medium,19.218,73.087
+Shahapur,52:29.6,35.5,73,309,1000.4,7,1.18,High,High,High,35.5,35.5,,Stay alert.,309,1,100,High,19.450,73.330
+Mira-Bhayandar,42:35.3,31.2,87,16.4,1009.9,32.9,1.73,High,High,High,31.2,31.2,,Stay alert.,0,0,100,High,19.295,72.854
+Murbad,10:38.7,33.8,98,248.7,1000,20.4,1.71,High,High,High,33.8,33.8,,Stay alert.,248.7,0,100,High,19.250,73.400
+Dombivli,03:34.0,32.2,61,92.9,1010.6,4.4,1.71,High,High,High,32.2,32.2,,Stay alert.,0,1,100,High,19.218,73.087
+Murbad,04:33.6,33,72,83,999.9,14.4,1.68,High,High,High,33,33,,Stay alert.,0,0,100,High,19.250,73.400
+Bhiwandi,15:20.2,32.2,77,157.6,996.4,11,0.49,Medium,Medium,Medium,32.2,32.2,,Stay alert.,157.6,0,100,Medium,19.296,73.063
+Ulhasnagar,52:57.5,27.7,77,234.6,997,14,0.16,High,Medium,High,27.7,27.7,,Stay alert.,234.6,0,100,High,19.216,73.150
+Bhiwandi,37:20.5,31.1,83,139.9,1011,9.8,0.4,Medium,Medium,Medium,31.1,31.1,,Stay alert.,139.9,1,100,Medium,19.296,73.063
+Dombivli,05:45.8,25.4,60,235.8,996.1,29.8,1.57,High,High,High,25.4,25.4,,Stay alert.,235.8,0,100,High,19.218,73.087
+Ulhasnagar,41:19.0,25.5,89,71.8,1014.1,6.8,1.32,Medium,Medium,Medium,25.5,25.5,,Stay alert.,0,0,100,Medium,19.216,73.150
+Kalyan,09:57.7,27.6,68,285.6,1013,3.6,1.31,High,High,High,27.6,27.6,,Stay alert.,285.6,0,100,High,19.243,73.080
+Mira-Bhayandar,48:39.0,33.3,75,48.3,1005.7,28,1.99,High,High,High,33.3,33.3,,Stay alert.,0,0,100,High,19.295,72.854
+Kalyan,44:28.2,31.8,65,234.4,998.5,27.6,1.31,High,Medium,High,31.8,31.8,,Stay alert.,234.4,0,100,High,19.243,73.080
+Thane City,43:53.1,31.2,79,45.9,992.5,25.6,1.81,High,High,High,31.2,31.2,,Stay alert.,0,0,100,High,19.218,72.978
+Dombivli,06:42.0,33.8,85,173.1,999.8,12.5,1.89,High,High,High,33.8,33.8,,Stay alert.,173.1,1,100,High,19.218,73.087
+Kalyan,23:29.9,25.2,67,135.2,999,13.6,1.26,Medium,Medium,Medium,25.2,25.2,,Stay alert.,135.2,0,100,Medium,19.243,73.080
+Thane City,35:23.3,27.3,98,39.6,998.3,25,0.08,Low,Low,Low,27.3,27.3,,Stay alert.,0,0,100,Low,19.218,72.978
+Murbad,20:44.1,29.8,92,129,996.6,7.8,0.31,Medium,Medium,Medium,29.8,29.8,,Stay alert.,129,0,100,Medium,19.250,73.400
+Mira-Bhayandar,57:25.0,28.7,86,337.7,995.5,12.3,0.84,High,High,High,28.7,28.7,,Stay alert.,337.7,0,100,High,19.295,72.854
+Mira-Bhayandar,32:34.4,28.7,95,161.8,1011,26.2,0.51,Medium,Medium,Medium,28.7,28.7,,Stay alert.,161.8,1,100,Medium,19.295,72.854
+Dombivli,00:02.5,25.6,65,36.1,1004.5,23.3,0.54,Low,Low,Low,25.6,25.6,,Stay alert.,0,1,100,Low,19.218,73.087
+Kalyan,51:46.2,29.4,92,138,998.8,22.9,0.88,Medium,Medium,Medium,29.4,29.4,,Stay alert.,138,0,100,Medium,19.243,73.080
+Bhiwandi,04:41.7,31.6,78,16.3,1002.5,11.2,0.84,Low,Low,Low,31.6,31.6,,Stay alert.,0,1,100,Low,19.296,73.063
+Ambernath,08:18.5,26.8,97,286.3,993,5.3,1.45,High,High,High,26.8,26.8,,Stay alert.,286.3,1,100,High,19.186,73.191
+Dombivli,34:33.3,24.2,63,211.4,991.6,25.8,1.48,High,Medium,Medium,24.2,24.2,,Stay alert.,211.4,1,100,High,19.218,73.087
+Shahapur,44:44.9,24.3,70,92.2,1002.6,15.1,1.73,High,High,High,24.3,24.3,,Stay alert.,0,0,100,High,19.450,73.330
+Kalyan,33:51.1,25.5,69,3.3,1000.8,7.8,1.71,High,High,High,25.5,25.5,,Stay alert.,0,1,100,High,19.243,73.080
+Bhiwandi,27:19.0,33.6,88,308,1012.5,19.1,0.61,High,High,High,33.6,33.6,,Stay alert.,308,1,100,High,19.296,73.063
+Dombivli,14:45.3,30,64,339.2,1006.7,0.9,1.69,High,High,High,30,30,,Stay alert.,339.2,1,100,High,19.218,73.087
+Ulhasnagar,01:56.1,28.2,91,61.8,993.1,22.4,0.41,Medium,Low,Medium,28.2,28.2,,Stay alert.,0,1,100,Medium,19.216,73.150
+Kalyan,02:59.5,30.9,76,174.9,996.8,29.1,1.27,Medium,Medium,Medium,30.9,30.9,,Stay alert.,174.9,0,100,Medium,19.243,73.080
+Kalyan,06:24.0,27.4,70,161.6,1009.1,10.2,0.49,Medium,Medium,Medium,27.4,27.4,,Stay alert.,161.6,1,100,Medium,19.243,73.080
+Ulhasnagar,43:22.5,31.7,77,149.9,991,10.2,1.61,High,High,High,31.7,31.7,,Stay alert.,149.9,1,100,High,19.216,73.150
+Murbad,35:27.1,34.5,86,131.3,993.8,1,1.14,Medium,Medium,Medium,34.5,34.5,,Stay alert.,131.3,0,100,Medium,19.250,73.400
+Shahapur,04:00.9,32.8,87,255,1014.2,30.6,1.45,High,High,High,32.8,32.8,,Stay alert.,255,0,100,High,19.450,73.330
+Shahapur,52:03.9,31,61,212.6,1011.7,12,0.26,High,Medium,Medium,31,31,,Stay alert.,212.6,0,100,High,19.450,73.330
+Ambernath,14:26.3,34.2,61,149.5,1008.6,23.7,1.31,Medium,Medium,Medium,34.2,34.2,,Stay alert.,149.5,1,100,Medium,19.186,73.191
+Shahapur,06:05.2,34.9,63,340.9,1013.7,21.8,1.43,High,High,High,34.9,34.9,,Stay alert.,340.9,1,100,High,19.450,73.330
+Thane City,38:03.4,31.2,69,132.5,993.7,11.7,0.99,Medium,Medium,Medium,31.2,31.2,,Stay alert.,132.5,1,100,Medium,19.218,72.978
+Bhiwandi,04:25.0,29.5,72,322.9,991.6,10.5,1.92,High,High,High,29.5,29.5,,Stay alert.,322.9,0,100,High,19.296,73.063
+Murbad,04:34.2,29,74,53.3,1005,18.4,1.2,Medium,Medium,Medium,29,29,,Stay alert.,0,0,100,Medium,19.250,73.400
+Bhiwandi,20:34.6,27.9,86,262.2,995,25.6,1.87,High,High,High,27.9,27.9,,Stay alert.,262.2,0,100,High,19.296,73.063
+Murbad,51:35.6,29.1,69,312.2,1006.2,24.4,0.93,High,High,High,29.1,29.1,,Stay alert.,312.2,1,100,High,19.250,73.400
+Kalyan,45:03.7,30.9,81,33,1005.6,29,0.08,Low,Low,Low,30.9,30.9,,Stay alert.,0,1,100,Low,19.243,73.080
+Dombivli,11:37.6,34.2,90,57.1,994.7,22.6,0.8,Medium,Low,Medium,34.2,34.2,,Stay alert.,0,0,100,Medium,19.218,73.087
+Thane City,47:32.9,35.5,60,322.2,1011.7,24.6,0.58,High,High,High,35.5,35.5,,Stay alert.,322.2,0,100,High,19.218,72.978
+Shahapur,30:59.9,25.9,66,306.9,1005.2,21.6,0.85,High,High,High,25.9,25.9,,Stay alert.,306.9,0,100,High,19.450,73.330
+Ambernath,43:12.9,26.2,75,165.6,996.4,7.3,0.86,Medium,Medium,Medium,26.2,26.2,,Stay alert.,165.6,1,100,Medium,19.186,73.191
+Ambernath,46:24.2,32.9,79,72.8,1009.7,3.4,0.13,Medium,Medium,Medium,32.9,32.9,,Stay alert.,0,1,100,Medium,19.186,73.191
+Mira-Bhayandar,36:57.2,28.4,87,278.7,1012.2,18.8,0.06,High,High,High,28.4,28.4,,Stay alert.,278.7,0,100,High,19.295,72.854
+Ulhasnagar,43:48.0,26,62,293.6,993.6,0.3,0.12,High,High,High,26,26,,Stay alert.,293.6,0,100,High,19.216,73.150
+Shahapur,22:56.5,24.9,65,274.8,1011.8,3.6,0.29,High,High,High,24.9,24.9,,Stay alert.,274.8,1,100,High,19.450,73.330
+Bhiwandi,14:27.9,29.7,63,226.5,1006,31.3,0.74,High,Medium,High,29.7,29.7,,Stay alert.,226.5,1,100,High,19.296,73.063
+Bhiwandi,54:38.3,34.9,64,169.6,997.3,31.2,1.98,High,High,High,34.9,34.9,,Stay alert.,169.6,1,100,High,19.296,73.063
+Kalyan,46:08.0,34.3,78,197.3,995.8,4.3,0.85,Medium,Medium,Medium,34.3,34.3,,Stay alert.,197.3,0,100,Medium,19.243,73.080
+Murbad,57:01.9,29.6,86,130.4,998.2,18.6,0.94,Medium,Medium,Medium,29.6,29.6,,Stay alert.,130.4,1,100,Medium,19.250,73.400
+Thane City,51:46.0,24.5,68,139.4,990.6,26.8,0.78,Medium,Medium,Medium,24.5,24.5,,Stay alert.,139.4,1,100,Medium,19.218,72.978
+Kalyan,01:37.1,24.6,88,341,1014.3,25.3,1.71,High,High,High,24.6,24.6,,Stay alert.,341,0,100,High,19.243,73.080
+Murbad,17:03.3,30.2,69,265.7,1006.2,1.3,0.64,High,High,High,30.2,30.2,,Stay alert.,265.7,0,100,High,19.250,73.400
+Murbad,55:52.4,35.2,68,323.5,1001.9,32.4,0.89,High,High,High,35.2,35.2,,Stay alert.,323.5,0,100,High,19.250,73.400
+Kalyan,27:10.1,31.4,88,125.9,992,24.1,0.66,Medium,Medium,Medium,31.4,31.4,,Stay alert.,125.9,0,100,Medium,19.243,73.080
+Ulhasnagar,39:44.9,30.1,61,338.5,994.6,30.5,0.25,High,High,High,30.1,30.1,,Stay alert.,338.5,0,100,High,19.216,73.150
+Dombivli,57:26.5,35.2,77,241.6,991.3,22.3,1.81,High,High,High,35.2,35.2,,Stay alert.,241.6,0,100,High,19.218,73.087
+Mira-Bhayandar,11:28.9,26.6,72,86.4,997.2,10.7,0.58,Medium,Medium,Medium,26.6,26.6,,Stay alert.,0,0,100,Medium,19.295,72.854
+Kalyan,42:58.4,30.5,83,84.4,1009.5,10.1,0.15,Medium,Medium,Medium,30.5,30.5,,Stay alert.,0,0,100,Medium,19.243,73.080
+Murbad,44:22.9,33.9,86,0.9,998.5,34.6,1.78,High,High,High,33.9,33.9,,Stay alert.,0,1,100,High,19.250,73.400
+Mira-Bhayandar,11:12.6,28.7,71,227.9,1013.8,3.1,1.66,High,High,High,28.7,28.7,,Stay alert.,227.9,0,100,High,19.295,72.854
+Ambernath,47:29.7,25.9,71,234.6,1014.1,19.9,0.54,High,Medium,High,25.9,25.9,,Stay alert.,234.6,1,100,High,19.186,73.191
+Dombivli,23:29.9,28.6,86,153,994.1,24.5,0.06,Medium,Medium,Medium,28.6,28.6,,Stay alert.,153,1,100,Medium,19.218,73.087
+Thane City,28:07.3,25,92,79.5,991.3,10.8,1.06,Medium,Medium,Medium,25,25,,Stay alert.,0,0,100,Medium,19.218,72.978
+Kalyan,47:51.1,32.5,62,309.2,1008.1,6.9,0.7,High,High,High,32.5,32.5,,Stay alert.,309.2,0,100,High,19.243,73.080
+Murbad,17:02.2,24.4,62,52.3,994.4,33.5,0.02,Medium,Low,Low,24.4,24.4,,Stay alert.,0,0,100,Medium,19.250,73.400
+Bhiwandi,18:08.0,27.4,87,220.6,1008.6,1.2,1.91,High,High,High,27.4,27.4,,Stay alert.,220.6,0,100,High,19.296,73.063
+Ambernath,59:57.4,33.7,64,22.1,1000.9,0.3,0.42,Low,Low,Low,33.7,33.7,,Stay alert.,0,0,100,Low,19.186,73.191
+Ulhasnagar,07:29.6,27.1,68,111.6,990.6,23,0.71,Medium,Medium,Medium,27.1,27.1,,Stay alert.,111.6,1,100,Medium,19.216,73.150
+Thane City,45:33.9,31.8,79,135.8,1013.2,34.6,1.76,High,High,High,31.8,31.8,,Stay alert.,135.8,1,100,High,19.218,72.978
+Ulhasnagar,08:48.4,30.2,97,279.3,1010.8,21,1.34,High,High,High,30.2,30.2,,Stay alert.,279.3,0,100,High,19.216,73.150
+Murbad,38:28.0,26.9,81,147.4,1002.7,24.3,1.81,High,High,High,26.9,26.9,,Stay alert.,147.4,1,100,High,19.250,73.400
+Murbad,49:53.5,34.9,80,346.5,1004.5,0.3,1.57,High,High,High,34.9,34.9,,Stay alert.,346.5,0,100,High,19.250,73.400
+Ulhasnagar,20:28.9,29.9,60,325.3,998.8,23.1,1.36,High,High,High,29.9,29.9,,Stay alert.,325.3,0,100,High,19.216,73.150
+Mira-Bhayandar,57:23.3,32.2,90,328.5,996,10.2,0,High,High,High,32.2,32.2,,Stay alert.,328.5,0,100,High,19.295,72.854
+Kalyan,23:57.2,32.4,65,337.9,991,12.3,1.04,High,High,High,32.4,32.4,,Stay alert.,337.9,1,100,High,19.243,73.080
+Dombivli,55:42.4,24.4,97,78.3,991.5,25.8,1.35,Medium,Medium,Medium,24.4,24.4,,Stay alert.,0,0,100,Medium,19.218,73.087
+Shahapur,09:57.6,34,85,77.3,991.8,15.7,1.42,Medium,Medium,Medium,34,34,,Stay alert.,0,1,100,Medium,19.450,73.330
+Mira-Bhayandar,53:55.6,29.5,74,112,990.9,34.8,1.62,High,High,High,29.5,29.5,,Stay alert.,112,1,100,High,19.295,72.854
+Ulhasnagar,33:20.9,26.8,74,233.7,1006.4,22.7,0.93,High,Medium,High,26.8,26.8,,Stay alert.,233.7,1,100,High,19.216,73.150
+Dombivli,38:41.4,30.9,98,284.3,1003.6,33.1,1.02,High,High,High,30.9,30.9,,Stay alert.,284.3,0,100,High,19.218,73.087
+Kalyan,59:44.7,30,65,341.9,1007.7,29.3,1.08,High,High,High,30,30,,Stay alert.,341.9,1,100,High,19.243,73.080
+Ulhasnagar,01:53.4,28.1,63,94.6,1002.5,4.7,1.99,High,High,High,28.1,28.1,,Stay alert.,0,1,100,High,19.216,73.150
+Thane City,38:06.3,31.9,90,279.2,1001.7,27.8,0.07,High,High,High,31.9,31.9,,Stay alert.,279.2,0,100,High,19.218,72.978
+Bhiwandi,51:44.3,27.7,61,12.1,1013.7,11.4,0.3,Low,Low,Low,27.7,27.7,,Stay alert.,0,1,100,Low,19.296,73.063
+Bhiwandi,50:33.0,29.2,82,294.3,994.8,31.3,1.43,High,High,High,29.2,29.2,,Stay alert.,294.3,0,100,High,19.296,73.063
+Ambernath,11:42.7,33.7,73,249.5,1005.9,16.9,1.15,High,Medium,High,33.7,33.7,,Stay alert.,249.5,1,100,High,19.186,73.191
+Bhiwandi,51:43.0,24.7,82,276.2,1004.3,23.3,1.52,High,High,High,24.7,24.7,,Stay alert.,276.2,0,100,High,19.296,73.063
+Bhiwandi,14:58.9,29.6,71,218.5,999.8,27.3,0.46,High,Medium,Medium,29.6,29.6,,Stay alert.,218.5,1,100,High,19.296,73.063
+Bhiwandi,47:44.1,28.6,79,329.3,991.5,25.1,1.31,High,High,High,28.6,28.6,,Stay alert.,329.3,0,100,High,19.296,73.063
+Mira-Bhayandar,53:26.3,26.8,88,62.5,1010.5,33.3,0.23,Medium,Medium,Medium,26.8,26.8,,Stay alert.,0,0,100,Medium,19.295,72.854
+Shahapur,14:33.8,34.3,84,126.9,1012.1,1.3,1.98,High,High,High,34.3,34.3,,Stay alert.,126.9,0,100,High,19.450,73.330
+Bhiwandi,20:58.7,30.6,82,160.6,998.2,5.7,0.34,Medium,Medium,Medium,30.6,30.6,,Stay alert.,160.6,0,100,Medium,19.296,73.063
+Ambernath,07:33.4,29.1,61,149.6,1010.1,17.7,1.08,Medium,Medium,Medium,29.1,29.1,,Stay alert.,149.6,0,100,Medium,19.186,73.191
+Murbad,04:29.6,32.2,94,172.1,991.9,7.4,0.95,Medium,Medium,Medium,32.2,32.2,,Stay alert.,172.1,0,100,Medium,19.250,73.400
+Murbad,15:03.0,34.6,79,200.3,1009.3,1.9,0.26,High,Medium,Medium,34.6,34.6,,Stay alert.,200.3,1,100,High,19.250,73.400
+Thane City,09:51.6,36,60,270.4,1013.2,25.3,1.48,High,High,High,36,36,,Stay alert.,270.4,0,100,High,19.218,72.978
+Shahapur,31:46.4,33.3,69,28.1,1007.1,15.9,1.42,Medium,Medium,Medium,33.3,33.3,,Stay alert.,0,1,100,Medium,19.450,73.330
+Dombivli,43:10.6,33.9,81,55.7,1008.3,11.8,1.44,Medium,Medium,Medium,33.9,33.9,,Stay alert.,0,1,100,Medium,19.218,73.087
+Ulhasnagar,12:33.9,27.5,87,286.5,990.5,29.3,0.78,High,High,High,27.5,27.5,,Stay alert.,286.5,0,100,High,19.216,73.150
+Ulhasnagar,05:27.0,26.2,70,311.8,1001.2,33.2,0.81,High,High,High,26.2,26.2,,Stay alert.,311.8,0,100,High,19.216,73.150
+Kalyan,50:40.0,29,72,81.4,1010.6,8.7,1.38,Medium,Medium,Medium,29,29,,Stay alert.,0,1,100,Medium,19.243,73.080
+Ambernath,37:44.8,28.8,65,34.1,1011.5,15.4,0.84,Low,Low,Low,28.8,28.8,,Stay alert.,0,1,100,Low,19.186,73.191
+Ulhasnagar,42:02.5,29.6,71,201.9,991.5,8.1,0.74,High,Medium,Medium,29.6,29.6,,Stay alert.,201.9,1,100,High,19.216,73.150
+Ulhasnagar,21:17.0,29,81,96.4,1014.8,15.8,0.57,Medium,Medium,Medium,29,29,,Stay alert.,0,0,100,Medium,19.216,73.150
+Dombivli,46:19.2,34.1,67,214.6,1010.1,20.9,1.27,High,Medium,Medium,34.1,34.1,,Stay alert.,214.6,0,100,High,19.218,73.087
+Mira-Bhayandar,29:31.9,29.1,89,22.3,1004.4,28.7,0.58,Low,Low,Low,29.1,29.1,,Stay alert.,0,1,100,Low,19.295,72.854
+Murbad,08:18.9,26.7,91,315.7,998,24.2,1.57,High,High,High,26.7,26.7,,Stay alert.,315.7,0,100,High,19.250,73.400
+Shahapur,59:40.6,34.6,91,37.6,1006.2,2.5,1.13,Medium,Medium,Medium,34.6,34.6,,Stay alert.,0,1,100,Medium,19.450,73.330
+Shahapur,51:39.8,25.4,63,121.1,995.3,12.1,0.6,Medium,Medium,Medium,25.4,25.4,,Stay alert.,121.1,1,100,Medium,19.450,73.330
+Thane City,01:13.9,29.9,79,63.1,1006.7,34.5,1.13,Medium,Medium,Medium,29.9,29.9,,Stay alert.,0,1,100,Medium,19.218,72.978
+Kalyan,57:23.2,32.1,78,256.9,1004.2,7,0.87,High,High,High,32.1,32.1,,Stay alert.,256.9,1,100,High,19.243,73.080
+Mira-Bhayandar,14:03.6,33.1,79,200.1,996.4,4.4,1.43,High,Medium,Medium,33.1,33.1,,Stay alert.,200.1,1,100,High,19.295,72.854
+Ambernath,27:50.3,25.9,67,105.7,992.8,24.9,1.27,Medium,Medium,Medium,25.9,25.9,,Stay alert.,105.7,0,100,Medium,19.186,73.191
+Bhiwandi,59:39.7,34.2,98,269.3,1001.6,23.1,0.49,High,High,High,34.2,34.2,,Stay alert.,269.3,1,100,High,19.296,73.063
+Bhiwandi,27:27.0,34.3,89,170.7,1003.4,2.9,1.15,Medium,Medium,Medium,34.3,34.3,,Stay alert.,170.7,0,100,Medium,19.296,73.063
+Bhiwandi,27:56.1,31.6,70,112.6,1013.3,19.6,1.3,Medium,Medium,Medium,31.6,31.6,,Stay alert.,112.6,1,100,Medium,19.296,73.063
+Dombivli,51:14.6,28.4,97,188,1012.6,25.9,1.43,Medium,Medium,Medium,28.4,28.4,,Stay alert.,188,0,100,Medium,19.218,73.087
+Ambernath,03:19.2,31.5,68,220.1,1011.9,34.5,0.12,High,Medium,Medium,31.5,31.5,,Stay alert.,220.1,1,100,High,19.186,73.191
+Ambernath,46:03.7,35.9,81,134.1,1003.7,28.4,1.82,High,High,High,35.9,35.9,,Stay alert.,134.1,1,100,High,19.186,73.191
+Dombivli,53:36.1,32.1,62,113.9,1007.9,6.1,0.03,Medium,Medium,Medium,32.1,32.1,,Stay alert.,113.9,0,100,Medium,19.218,73.087
+Ambernath,48:04.0,29.7,95,280.9,1010.9,0.5,1.89,High,High,High,29.7,29.7,,Stay alert.,280.9,0,100,High,19.186,73.191
+Ulhasnagar,09:49.2,35.7,61,155.2,998.7,25.6,0.67,Medium,Medium,Medium,35.7,35.7,,Stay alert.,155.2,0,100,Medium,19.216,73.150
+Murbad,01:27.3,35.4,92,151.1,992.8,27.6,1.86,High,High,High,35.4,35.4,,Stay alert.,151.1,1,100,High,19.250,73.400
+Mira-Bhayandar,23:42.1,33.1,84,262.4,1012.8,28.5,1.72,High,High,High,33.1,33.1,,Stay alert.,262.4,1,100,High,19.295,72.854
+Murbad,22:57.5,34.9,63,123.1,990.8,9.5,1.38,Medium,Medium,Medium,34.9,34.9,,Stay alert.,123.1,0,100,Medium,19.250,73.400
+Ambernath,31:16.0,24.1,87,265.6,1002.3,17.1,1.73,High,High,High,24.1,24.1,,Stay alert.,265.6,0,100,High,19.186,73.191
+Shahapur,56:46.6,24.7,69,252.1,996.6,25.2,0.3,High,High,High,24.7,24.7,,Stay alert.,252.1,1,100,High,19.450,73.330
+Ulhasnagar,40:14.3,25.3,94,0.7,1010.1,22.4,1.24,Medium,Medium,Medium,25.3,25.3,,Stay alert.,0,1,100,Medium,19.216,73.150
+Mira-Bhayandar,45:32.0,32.6,84,64.4,995.6,5.4,0.78,Medium,Medium,Medium,32.6,32.6,,Stay alert.,0,1,100,Medium,19.295,72.854
+Ambernath,28:50.3,26.8,88,241.6,1014.7,3.7,0.07,High,Medium,High,26.8,26.8,,Stay alert.,241.6,0,100,High,19.186,73.191
+Mira-Bhayandar,14:01.0,32.1,70,271.3,1012.7,23.3,1.91,High,High,High,32.1,32.1,,Stay alert.,271.3,1,100,High,19.295,72.854
+Ambernath,03:31.9,33.9,78,152.4,1014.7,23.3,1.94,High,High,High,33.9,33.9,,Stay alert.,152.4,1,100,High,19.186,73.191
+Ulhasnagar,18:08.5,33.1,76,45.4,1009.1,24.3,0.42,Low,Low,Low,33.1,33.1,,Stay alert.,0,0,100,Low,19.216,73.150
+Ambernath,36:21.9,30.2,64,31.4,993.3,21.6,0.68,Low,Low,Low,30.2,30.2,,Stay alert.,0,0,100,Low,19.186,73.191
+Shahapur,37:15.5,27.2,73,28.2,991.1,9.6,0.68,Low,Low,Low,27.2,27.2,,Stay alert.,0,1,100,Low,19.450,73.330
+Kalyan,27:53.9,33,84,170.6,1000.8,20.1,1.73,High,High,High,33,33,,Stay alert.,170.6,0,100,High,19.243,73.080
+Murbad,46:14.7,31.1,87,73.2,1005.4,3.4,1.86,High,High,High,31.1,31.1,,Stay alert.,0,1,100,High,19.250,73.400
+Bhiwandi,31:05.9,28.9,97,212.6,1013.9,12.6,0.07,High,Medium,Medium,28.9,28.9,,Stay alert.,212.6,0,100,High,19.296,73.063
+Murbad,35:03.1,34,60,313.8,991.2,21.1,1.73,High,High,High,34,34,,Stay alert.,313.8,1,100,High,19.250,73.400
+Bhiwandi,34:57.1,32.2,91,295.5,1010,0,0.41,High,High,High,32.2,32.2,,Stay alert.,295.5,1,100,High,19.296,73.063
+Thane City,15:32.3,29.1,93,20.3,1009.9,29.8,1.84,High,High,High,29.1,29.1,,Stay alert.,0,1,100,High,19.218,72.978
+Kalyan,10:52.0,25.2,77,11.5,1012,25.6,1.89,High,High,High,25.2,25.2,,Stay alert.,0,1,100,High,19.243,73.080
+Bhiwandi,57:55.0,34.4,95,69.1,991.5,19,0.83,Medium,Medium,Medium,34.4,34.4,,Stay alert.,0,0,100,Medium,19.296,73.063
+Ambernath,02:28.3,25.9,84,25.8,997.7,3.4,1.96,High,High,High,25.9,25.9,,Stay alert.,0,0,100,High,19.186,73.191
+Thane City,03:38.8,33.3,80,233.4,1013,1.5,1.55,High,High,High,33.3,33.3,,Stay alert.,233.4,0,100,High,19.218,72.978
+Ambernath,59:17.4,24.8,70,257.7,1006.3,2.5,1.63,High,High,High,24.8,24.8,,Stay alert.,257.7,1,100,High,19.186,73.191
+Murbad,19:11.3,31.1,73,45.1,1000.3,34.7,0,Low,Low,Low,31.1,31.1,,Stay alert.,0,0,100,Low,19.250,73.400
+Shahapur,31:47.0,31.2,61,73.4,998.5,31.2,0.82,Medium,Medium,Medium,31.2,31.2,,Stay alert.,0,0,100,Medium,19.450,73.330
+Bhiwandi,33:03.8,30.7,62,185.6,991.7,12.7,1.8,High,High,High,30.7,30.7,,Stay alert.,185.6,0,100,High,19.296,73.063
+Ambernath,52:11.1,30.8,64,98.5,1011.2,26.4,1.58,High,High,High,30.8,30.8,,Stay alert.,0,0,100,High,19.186,73.191
+Mira-Bhayandar,30:41.3,35.3,95,214.3,998,27.9,1.29,High,Medium,Medium,35.3,35.3,,Stay alert.,214.3,1,100,High,19.295,72.854
+Bhiwandi,37:13.6,34.4,63,129.1,1006.5,23.9,1.2,Medium,Medium,Medium,34.4,34.4,,Stay alert.,129.1,1,100,Medium,19.296,73.063
+Mira-Bhayandar,38:56.3,33.7,84,167.5,1014.5,8.4,0.82,Medium,Medium,Medium,33.7,33.7,,Stay alert.,167.5,1,100,Medium,19.295,72.854
+Dombivli,17:46.7,34.4,83,295.7,997.6,21.7,0.31,High,High,High,34.4,34.4,,Stay alert.,295.7,1,100,High,19.218,73.087
+Mira-Bhayandar,43:08.2,32.9,77,242.8,998.5,4.5,1.65,High,High,High,32.9,32.9,,Stay alert.,242.8,0,100,High,19.295,72.854
+Murbad,37:26.2,26.6,75,231.2,1006,18,1.34,High,Medium,High,26.6,26.6,,Stay alert.,231.2,1,100,High,19.250,73.400
+Dombivli,33:25.8,33.7,96,139,995.6,0.4,1.03,Medium,Medium,Medium,33.7,33.7,,Stay alert.,139,0,100,Medium,19.218,73.087
+Dombivli,35:28.1,31.1,75,340.4,991.1,22.4,1.33,High,High,High,31.1,31.1,,Stay alert.,340.4,1,100,High,19.218,73.087
+Murbad,20:15.6,33,75,343.5,1003.2,22.6,0.93,High,High,High,33,33,,Stay alert.,343.5,0,100,High,19.250,73.400
+Ulhasnagar,50:37.2,35,76,269.6,994.2,25.1,0.33,High,High,High,35,35,,Stay alert.,269.6,1,100,High,19.216,73.150
+Ambernath,42:37.4,26.6,95,252.3,1013.8,6.4,1.66,High,High,High,26.6,26.6,,Stay alert.,252.3,0,100,High,19.186,73.191
+Shahapur,13:07.0,35.1,66,139.4,1005.3,24,0.01,Medium,Medium,Medium,35.1,35.1,,Stay alert.,139.4,1,100,Medium,19.450,73.330
+Ambernath,29:34.6,32.2,78,278.7,994.2,3.3,1.19,High,High,High,32.2,32.2,,Stay alert.,278.7,1,100,High,19.186,73.191
+Thane City,55:17.1,32.6,85,24.6,994.9,24.1,0.71,Low,Low,Low,32.6,32.6,,Stay alert.,0,1,100,Low,19.218,72.978
+Bhiwandi,27:43.5,31.5,94,244.1,999.6,25.1,1.73,High,High,High,31.5,31.5,,Stay alert.,244.1,0,100,High,19.296,73.063
+Kalyan,42:03.5,35.9,85,348.9,1013.2,11.4,1.08,High,High,High,35.9,35.9,,Stay alert.,348.9,0,100,High,19.243,73.080
+Murbad,18:01.3,30.3,65,249.9,1006.2,28.7,0.53,High,Medium,High,30.3,30.3,,Stay alert.,249.9,0,100,High,19.250,73.400
+Thane City,18:42.1,33.5,90,105,992.6,29.6,1.22,Medium,Medium,Medium,33.5,33.5,,Stay alert.,105,1,100,Medium,19.218,72.978
+Bhiwandi,05:22.8,31.4,87,195.2,998.5,26.1,0.29,Medium,Medium,Medium,31.4,31.4,,Stay alert.,195.2,0,100,Medium,19.296,73.063
+Ambernath,02:40.1,31,65,274.9,993.6,1.9,1.49,High,High,High,31,31,,Stay alert.,274.9,0,100,High,19.186,73.191
+Mira-Bhayandar,34:52.1,34.9,93,210.9,1010.4,16.7,0.56,High,Medium,Medium,34.9,34.9,,Stay alert.,210.9,1,100,High,19.295,72.854
+Ambernath,42:13.9,33,94,274.4,1004.9,13.6,0.48,High,High,High,33,33,,Stay alert.,274.4,1,100,High,19.186,73.191
+Bhiwandi,51:02.8,35.8,95,240.6,994,1.9,0.39,High,Medium,High,35.8,35.8,,Stay alert.,240.6,0,100,High,19.296,73.063
+Shahapur,00:09.0,29.2,79,298.4,992.8,13.5,1.45,High,High,High,29.2,29.2,,Stay alert.,298.4,0,100,High,19.450,73.330
+Thane City,41:37.3,27.9,65,262.9,990.3,19.5,1.2,High,High,High,27.9,27.9,,Stay alert.,262.9,0,100,High,19.218,72.978
+Mira-Bhayandar,11:23.3,29.7,94,256.7,1000.3,10.4,0.25,High,High,High,29.7,29.7,,Stay alert.,256.7,1,100,High,19.295,72.854
+Bhiwandi,19:27.1,32.9,72,257.2,1011.7,12.2,0.99,High,High,High,32.9,32.9,,Stay alert.,257.2,0,100,High,19.296,73.063
+Bhiwandi,40:43.7,32.1,93,74.6,1006.6,16.3,1.78,High,High,High,32.1,32.1,,Stay alert.,0,1,100,High,19.296,73.063
+Shahapur,54:05.6,28.1,98,143.6,1009.1,10.6,1.58,High,High,High,28.1,28.1,,Stay alert.,143.6,0,100,High,19.450,73.330
+Thane City,46:11.3,33.2,69,312.6,1013.9,11.8,0.88,High,High,High,33.2,33.2,,Stay alert.,312.6,1,100,High,19.218,72.978
+Ulhasnagar,21:32.8,30,61,228.7,1009.1,3.5,0.68,High,Medium,High,30,30,,Stay alert.,228.7,1,100,High,19.216,73.150
+Mira-Bhayandar,15:06.3,32.5,71,253.2,995.2,26.9,1.15,High,High,High,32.5,32.5,,Stay alert.,253.2,0,100,High,19.295,72.854
+Bhiwandi,09:11.6,27.3,85,82.1,1003.9,18.5,0.56,Medium,Medium,Medium,27.3,27.3,,Stay alert.,0,0,100,Medium,19.296,73.063
+Thane City,28:08.5,33.8,87,94.5,990.6,22.1,1.28,Medium,Medium,Medium,33.8,33.8,,Stay alert.,0,1,100,Medium,19.218,72.978
+Kalyan,25:48.2,25.8,64,94.6,992.8,27.5,0.52,Medium,Medium,Medium,25.8,25.8,,Stay alert.,0,1,100,Medium,19.243,73.080
+Shahapur,46:59.6,25.2,77,316.5,1012.5,0.5,1.63,High,High,High,25.2,25.2,,Stay alert.,316.5,0,100,High,19.450,73.330
+Mira-Bhayandar,09:47.3,35.3,91,275.6,994.2,27.1,1.75,High,High,High,35.3,35.3,,Stay alert.,275.6,0,100,High,19.295,72.854
+Bhiwandi,29:10.1,33.9,63,114,1010.6,2.2,0.54,Medium,Medium,Medium,33.9,33.9,,Stay alert.,114,0,100,Medium,19.296,73.063
+Shahapur,18:54.5,35,90,216.8,1000.7,33.4,1.85,High,High,High,35,35,,Stay alert.,216.8,0,100,High,19.450,73.330
+Thane City,36:13.1,35.8,95,21.8,995.9,11.2,1.15,Medium,Medium,Medium,35.8,35.8,,Stay alert.,0,0,100,Medium,19.218,72.978
+Ulhasnagar,29:37.6,31,83,262.4,1013.8,7.7,1.32,High,High,High,31,31,,Stay alert.,262.4,0,100,High,19.216,73.150
+Mira-Bhayandar,46:09.7,34.1,65,247.1,1001.1,20,1.63,High,High,High,34.1,34.1,,Stay alert.,247.1,1,100,High,19.295,72.854
+Ulhasnagar,29:44.5,29.6,69,48,1002.2,13.7,0.12,Low,Low,Low,29.6,29.6,,Stay alert.,0,1,100,Low,19.216,73.150
+Dombivli,17:25.2,28.5,85,324,1005.2,21.3,1.63,High,High,High,28.5,28.5,,Stay alert.,324,1,100,High,19.218,73.087
+Mira-Bhayandar,50:04.4,28,95,106,1012.5,23.3,1.96,High,High,High,28,28,,Stay alert.,106,1,100,High,19.295,72.854
+Kalyan,39:35.2,31.9,73,247.7,1009.7,22.4,1.91,High,High,High,31.9,31.9,,Stay alert.,247.7,0,100,High,19.243,73.080
+Kalyan,01:20.8,24.2,92,153.6,990.6,30.7,1.9,High,High,High,24.2,24.2,,Stay alert.,153.6,1,100,High,19.243,73.080
+Kalyan,58:33.5,28.5,75,343.1,1006.8,23.5,0.81,High,High,High,28.5,28.5,,Stay alert.,343.1,0,100,High,19.243,73.080
+Ambernath,03:14.4,30.3,76,47.8,990.6,27.8,0.43,Low,Low,Low,30.3,30.3,,Stay alert.,0,0,100,Low,19.186,73.191
+Mira-Bhayandar,10:42.2,30.1,91,91.8,992,9.6,0.31,Medium,Medium,Medium,30.1,30.1,,Stay alert.,0,0,100,Medium,19.295,72.854
+Bhiwandi,04:57.3,35.7,65,141.5,995.6,23.6,1.93,High,High,High,35.7,35.7,,Stay alert.,141.5,0,100,High,19.296,73.063
+Ambernath,10:38.0,33.1,80,296.9,993,0.8,1.74,High,High,High,33.1,33.1,,Stay alert.,296.9,1,100,High,19.186,73.191
+Ulhasnagar,44:03.0,33.5,65,279.2,996.2,25.1,0.74,High,High,High,33.5,33.5,,Stay alert.,279.2,1,100,High,19.216,73.150
+Shahapur,59:51.8,26.5,62,53.6,996.2,26.7,1.25,Medium,Medium,Medium,26.5,26.5,,Stay alert.,0,0,100,Medium,19.450,73.330
+Ambernath,25:01.4,29.2,76,177.7,1013.5,0.6,0.82,Medium,Medium,Medium,29.2,29.2,,Stay alert.,177.7,1,100,Medium,19.186,73.191
+Kalyan,24:34.4,27.3,74,229,1005.3,12.2,0.21,High,Medium,High,27.3,27.3,,Stay alert.,229,0,100,High,19.243,73.080
+Thane City,38:10.8,34.3,90,312.1,999,5.8,0.9,High,High,High,34.3,34.3,,Stay alert.,312.1,1,100,High,19.218,72.978
+Mira-Bhayandar,29:08.6,24.2,62,236.5,997.9,4.8,0.86,High,Medium,High,24.2,24.2,,Stay alert.,236.5,1,100,High,19.295,72.854
+Dombivli,43:40.7,27.4,75,24.7,1010.6,15.7,0.08,Low,Low,Low,27.4,27.4,,Stay alert.,0,0,100,Low,19.218,73.087
+Bhiwandi,56:43.0,27.2,68,140.5,1004.4,10.1,1.02,Medium,Medium,Medium,27.2,27.2,,Stay alert.,140.5,1,100,Medium,19.296,73.063
+Mira-Bhayandar,06:29.4,25.6,67,214.6,993.7,30.7,1.06,High,Medium,Medium,25.6,25.6,,Stay alert.,214.6,1,100,High,19.295,72.854
+Mira-Bhayandar,09:45.6,29.7,72,305.7,1011.2,13,1.42,High,High,High,29.7,29.7,,Stay alert.,305.7,1,100,High,19.295,72.854
+Ambernath,31:52.3,35.7,82,228.7,1008.3,17.6,1.12,High,Medium,High,35.7,35.7,,Stay alert.,228.7,0,100,High,19.186,73.191
+Bhiwandi,57:23.3,31.9,62,79.3,1000,0.9,0.17,Medium,Medium,Medium,31.9,31.9,,Stay alert.,0,0,100,Medium,19.296,73.063
+Mira-Bhayandar,55:26.1,26.2,98,177.8,1009.5,32,0.43,Medium,Medium,Medium,26.2,26.2,,Stay alert.,177.8,1,100,Medium,19.295,72.854
+Dombivli,27:48.8,31.4,79,169.3,1000.1,7.9,0.68,Medium,Medium,Medium,31.4,31.4,,Stay alert.,169.3,1,100,Medium,19.218,73.087
+Bhiwandi,39:41.8,28,74,140.3,1004,27.9,0.84,Medium,Medium,Medium,28,28,,Stay alert.,140.3,1,100,Medium,19.296,73.063
+Dombivli,51:06.5,29.4,69,154.8,1000.5,28.5,0,Medium,Medium,Medium,29.4,29.4,,Stay alert.,154.8,1,100,Medium,19.218,73.087
+Dombivli,26:48.7,33.3,98,165.8,990.9,2.5,1.14,Medium,Medium,Medium,33.3,33.3,,Stay alert.,165.8,1,100,Medium,19.218,73.087
+Shahapur,45:44.1,31.2,76,270.1,1002.6,2.8,0.34,High,High,High,31.2,31.2,,Stay alert.,270.1,1,100,High,19.450,73.330
+Murbad,19:14.4,25.4,81,149.6,1001.1,3.9,0.91,Medium,Medium,Medium,25.4,25.4,,Stay alert.,149.6,1,100,Medium,19.250,73.400
+Shahapur,42:24.7,29.7,78,205.4,1007.6,25,1.69,High,High,High,29.7,29.7,,Stay alert.,205.4,1,100,High,19.450,73.330
+Ulhasnagar,33:33.2,24.8,86,341.8,1008.6,28.9,0.96,High,High,High,24.8,24.8,,Stay alert.,341.8,1,100,High,19.216,73.150
+Ambernath,43:28.5,34.7,76,163.5,996.4,19.5,0.81,Medium,Medium,Medium,34.7,34.7,,Stay alert.,163.5,0,100,Medium,19.186,73.191
+Ambernath,26:13.4,31.3,94,6.6,1001.8,20.8,0.16,Low,Low,Low,31.3,31.3,,Stay alert.,0,1,100,Low,19.186,73.191
+Thane City,53:39.5,26.5,79,0.7,1002.8,18.8,0.82,Low,Low,Low,26.5,26.5,,Stay alert.,0,1,100,Low,19.218,72.978
+Murbad,52:44.9,25.9,83,307.9,1006.6,31.2,1.19,High,High,High,25.9,25.9,,Stay alert.,307.9,1,100,High,19.250,73.400
+Bhiwandi,52:39.5,26.5,94,110.1,1008.5,22.2,1.9,High,High,High,26.5,26.5,,Stay alert.,110.1,0,100,High,19.296,73.063
+Dombivli,44:57.0,28.6,74,227,1014.2,25.6,0.64,High,Medium,High,28.6,28.6,,Stay alert.,227,0,100,High,19.218,73.087
+Bhiwandi,34:24.2,33.8,74,6.1,1009.2,2.4,1.2,Medium,Medium,Medium,33.8,33.8,,Stay alert.,0,0,100,Medium,19.296,73.063
+Ulhasnagar,23:37.0,26.4,61,181.8,1005.7,14.3,1.06,Medium,Medium,Medium,26.4,26.4,,Stay alert.,181.8,0,100,Medium,19.216,73.150
+Kalyan,55:17.5,29.5,89,160.2,998.3,4.2,0.34,Medium,Medium,Medium,29.5,29.5,,Stay alert.,160.2,1,100,Medium,19.243,73.080
+Bhiwandi,12:22.6,29,76,168.5,993.1,26.2,1.62,High,High,High,29,29,,Stay alert.,168.5,1,100,High,19.296,73.063
+Kalyan,22:21.5,31.7,96,112.5,992.4,26.9,0.21,Medium,Medium,Medium,31.7,31.7,,Stay alert.,112.5,0,100,Medium,19.243,73.080
+Dombivli,53:49.6,25.6,69,297.3,994,14.3,0.94,High,High,High,25.6,25.6,,Stay alert.,297.3,0,100,High,19.218,73.087
+Bhiwandi,11:21.0,35.7,61,175,996,27.4,0.86,Medium,Medium,Medium,35.7,35.7,,Stay alert.,175,1,100,Medium,19.296,73.063
+Ulhasnagar,09:03.4,24.9,88,188.8,1002.4,11.5,1.1,Medium,Medium,Medium,24.9,24.9,,Stay alert.,188.8,1,100,Medium,19.216,73.150
+Bhiwandi,28:04.8,35,63,106.3,999.9,8.7,1.56,High,High,High,35,35,,Stay alert.,106.3,0,100,High,19.296,73.063
+Murbad,53:20.8,28.5,91,3.5,994.7,4.5,1.67,High,High,High,28.5,28.5,,Stay alert.,0,1,100,High,19.250,73.400
+Dombivli,49:56.3,24.7,75,303.1,1014.6,17.8,1.96,High,High,High,24.7,24.7,,Stay alert.,303.1,1,100,High,19.218,73.087
+Dombivli,31:04.2,26.4,76,201.3,994.2,33.3,1.81,High,High,High,26.4,26.4,,Stay alert.,201.3,1,100,High,19.218,73.087
+Thane City,00:30.8,34.3,97,209.3,1005.7,31,1.07,High,Medium,Medium,34.3,34.3,,Stay alert.,209.3,1,100,High,19.218,72.978
+Kalyan,22:59.6,28.2,82,307.5,994.9,14.5,1.45,High,High,High,28.2,28.2,,Stay alert.,307.5,0,100,High,19.243,73.080
+Ambernath,25:02.9,32.3,82,141.3,999.8,20.6,1.49,Medium,Medium,Medium,32.3,32.3,,Stay alert.,141.3,1,100,Medium,19.186,73.191
+Dombivli,24:26.0,30.3,78,137.6,998,33.4,1.54,High,High,High,30.3,30.3,,Stay alert.,137.6,0,100,High,19.218,73.087
+Murbad,45:17.5,33.2,89,115.3,1005.3,1.8,1.16,Medium,Medium,Medium,33.2,33.2,,Stay alert.,115.3,0,100,Medium,19.250,73.400
+Ulhasnagar,28:20.2,30.3,75,59.8,1010.8,33.2,1.82,High,High,High,30.3,30.3,,Stay alert.,0,1,100,High,19.216,73.150
+Ulhasnagar,45:20.8,32.6,73,39.3,1006.6,5.2,1.75,High,High,High,32.6,32.6,,Stay alert.,0,0,100,High,19.216,73.150
+Bhiwandi,12:37.1,28.8,75,148.5,1004.7,17.9,0.62,Medium,Medium,Medium,28.8,28.8,,Stay alert.,148.5,1,100,Medium,19.296,73.063
+Ambernath,46:18.8,29.1,95,145.9,998.5,24.5,0.26,Medium,Medium,Medium,29.1,29.1,,Stay alert.,145.9,0,100,Medium,19.186,73.191
+Mira-Bhayandar,09:15.3,35.9,86,137.7,1004,17.5,1.92,High,High,High,35.9,35.9,,Stay alert.,137.7,0,100,High,19.295,72.854
+Mira-Bhayandar,30:36.8,27.1,69,130.6,998.6,10.7,0.5,Medium,Medium,Medium,27.1,27.1,,Stay alert.,130.6,1,100,Medium,19.295,72.854
+Dombivli,36:48.9,33.7,71,270.2,996,18.9,0.22,High,High,High,33.7,33.7,,Stay alert.,270.2,1,100,High,19.218,73.087
+Ulhasnagar,26:08.1,25.9,60,139.9,1005.4,11.2,0.9,Medium,Medium,Medium,25.9,25.9,,Stay alert.,139.9,0,100,Medium,19.216,73.150
+Thane City,48:08.3,30.7,60,180.6,1005.1,8.5,1.3,Medium,Medium,Medium,30.7,30.7,,Stay alert.,180.6,0,100,Medium,19.218,72.978
+Kalyan,04:41.4,27.1,60,163.8,1012.1,33.2,1.65,High,High,High,27.1,27.1,,Stay alert.,163.8,1,100,High,19.243,73.080
+Murbad,44:53.9,26.2,85,103.2,997.1,2.8,0.3,Medium,Medium,Medium,26.2,26.2,,Stay alert.,103.2,0,100,Medium,19.250,73.400
+Shahapur,12:52.4,34.1,91,292.3,991.3,33.9,1.53,High,High,High,34.1,34.1,,Stay alert.,292.3,1,100,High,19.450,73.330
+Dombivli,11:02.7,26,89,331.3,995.6,11,1.37,High,High,High,26,26,,Stay alert.,331.3,1,100,High,19.218,73.087
+Shahapur,26:23.0,25.6,81,55.9,1000.9,29,1.05,Medium,Medium,Medium,25.6,25.6,,Stay alert.,0,0,100,Medium,19.450,73.330
+Ulhasnagar,27:57.8,32.1,65,326.6,1012.8,30,0.8,High,High,High,32.1,32.1,,Stay alert.,326.6,1,100,High,19.216,73.150
+Bhiwandi,14:11.1,33.8,62,69.4,1012.7,16.2,0.66,Medium,Medium,Medium,33.8,33.8,,Stay alert.,0,1,100,Medium,19.296,73.063
+Dombivli,36:13.3,25,86,20.5,994.9,15.9,1.34,Medium,Medium,Medium,25,25,,Stay alert.,0,1,100,Medium,19.218,73.087
+Thane City,39:48.8,34,71,60.3,998.6,34.4,0.77,Medium,Low,Medium,34,34,,Stay alert.,0,1,100,Medium,19.218,72.978
+Mira-Bhayandar,22:35.1,25.9,98,273.8,1007.3,7.4,0.85,High,High,High,25.9,25.9,,Stay alert.,273.8,1,100,High,19.295,72.854
+Kalyan,59:36.4,29.3,60,17,1008,6.3,0.78,Low,Low,Low,29.3,29.3,,Stay alert.,0,1,100,Low,19.243,73.080
+Mira-Bhayandar,22:12.3,29.3,79,348.1,991.4,13.8,0.8,High,High,High,29.3,29.3,,Stay alert.,348.1,0,100,High,19.295,72.854
+Murbad,02:37.0,32.3,76,190.7,1003.2,29.4,1.71,High,High,High,32.3,32.3,,Stay alert.,190.7,0,100,High,19.250,73.400
+Ulhasnagar,31:44.7,33.5,68,275.9,1004.8,8.3,0.17,High,High,High,33.5,33.5,,Stay alert.,275.9,1,100,High,19.216,73.150
+Ambernath,03:43.9,25.8,70,102.2,1004.5,13.7,1.86,High,High,High,25.8,25.8,,Stay alert.,102.2,0,100,High,19.186,73.191
+Dombivli,02:12.9,27.2,89,128.8,1001.5,4.9,0.67,Medium,Medium,Medium,27.2,27.2,,Stay alert.,128.8,0,100,Medium,19.218,73.087
+Kalyan,29:25.0,27,85,126.3,1008.5,15.6,1.39,Medium,Medium,Medium,27,27,,Stay alert.,126.3,0,100,Medium,19.243,73.080
+Thane City,27:19.8,34.5,72,238.3,1012.1,12.5,0.47,High,Medium,High,34.5,34.5,,Stay alert.,238.3,1,100,High,19.218,72.978
+Bhiwandi,34:42.7,25.2,78,346.2,1015,29.3,1.96,High,High,High,25.2,25.2,,Stay alert.,346.2,1,100,High,19.296,73.063
+Bhiwandi,37:19.5,31.6,95,221.7,990.2,13.7,0.09,High,Medium,Medium,31.6,31.6,,Stay alert.,221.7,1,100,High,19.296,73.063
+Thane City,31:54.4,25.7,61,262.5,999.6,22.3,1.1,High,High,High,25.7,25.7,,Stay alert.,262.5,1,100,High,19.218,72.978
+Ambernath,31:12.9,28.4,77,168.8,1001.2,30.5,1.05,Medium,Medium,Medium,28.4,28.4,,Stay alert.,168.8,1,100,Medium,19.186,73.191
+Kalyan,38:43.0,34.3,62,83,993.4,28.4,0.84,Medium,Medium,Medium,34.3,34.3,,Stay alert.,0,1,100,Medium,19.243,73.080
+Mira-Bhayandar,02:06.0,26.4,79,213.3,1002.5,5.9,1.35,High,Medium,Medium,26.4,26.4,,Stay alert.,213.3,1,100,High,19.295,72.854
+Dombivli,37:29.4,35.7,74,20.1,994.3,6.7,1.94,High,High,High,35.7,35.7,,Stay alert.,0,1,100,High,19.218,73.087
+Shahapur,10:54.8,27.8,91,224.7,995.4,12.5,0.33,High,Medium,High,27.8,27.8,,Stay alert.,224.7,1,100,High,19.450,73.330
+Dombivli,40:43.4,27.4,91,45.6,994,29.2,0.78,Low,Low,Low,27.4,27.4,,Stay alert.,0,0,100,Low,19.218,73.087
+Ambernath,18:34.2,30.3,66,205.4,995.1,30.4,1.95,High,High,High,30.3,30.3,,Stay alert.,205.4,1,100,High,19.186,73.191
+Thane City,18:37.2,33.3,68,256.4,998.1,0.4,1.07,High,High,High,33.3,33.3,,Stay alert.,256.4,0,100,High,19.218,72.978
+Bhiwandi,13:18.2,26.2,61,196.2,997.7,13.9,1.04,Medium,Medium,Medium,26.2,26.2,,Stay alert.,196.2,1,100,Medium,19.296,73.063
+Ambernath,44:00.2,26.2,95,305.9,994.4,25.8,1.87,High,High,High,26.2,26.2,,Stay alert.,305.9,1,100,High,19.186,73.191
+Kalyan,12:41.3,32,78,292.2,1012.7,27.4,1.69,High,High,High,32,32,,Stay alert.,292.2,1,100,High,19.243,73.080
+Murbad,04:39.3,25.9,96,58.2,1014.1,25.5,1.76,High,High,High,25.9,25.9,,Stay alert.,0,0,100,High,19.250,73.400
+Kalyan,12:09.3,27.8,66,288.3,991.6,29.4,0.08,High,High,High,27.8,27.8,,Stay alert.,288.3,1,100,High,19.243,73.080
+Kalyan,16:38.6,30.9,96,222.9,991.7,20.8,0.28,High,Medium,High,30.9,30.9,,Stay alert.,222.9,1,100,High,19.243,73.080
+Murbad,32:25.2,28.2,80,344.9,1010.5,19.7,0.97,High,High,High,28.2,28.2,,Stay alert.,344.9,1,100,High,19.250,73.400
+Ulhasnagar,46:07.8,32.6,83,303.2,1006,14.9,1.65,High,High,High,32.6,32.6,,Stay alert.,303.2,0,100,High,19.216,73.150
+Mira-Bhayandar,26:01.6,28.9,72,283.8,996.9,7.9,1.07,High,High,High,28.9,28.9,,Stay alert.,283.8,0,100,High,19.295,72.854
+Kalyan,19:04.3,26.7,61,147.7,1001.3,15.9,1.64,High,High,High,26.7,26.7,,Stay alert.,147.7,0,100,High,19.243,73.080
+Ambernath,33:50.5,24.8,65,250.5,993,23,0.92,High,High,High,24.8,24.8,,Stay alert.,250.5,1,100,High,19.186,73.191
+Murbad,13:51.6,35.5,74,15.7,1007.5,15,0.94,Low,Low,Low,35.5,35.5,,Stay alert.,0,0,100,Low,19.250,73.400
+Dombivli,56:45.6,24.5,65,284.6,994.2,7.4,1.29,High,High,High,24.5,24.5,,Stay alert.,284.6,0,100,High,19.218,73.087
+Bhiwandi,41:01.2,28.8,82,153.1,1011.7,4.8,0.26,Medium,Medium,Medium,28.8,28.8,,Stay alert.,153.1,0,100,Medium,19.296,73.063
+Murbad,29:27.1,30,83,246.5,999.7,14.2,0.65,High,Medium,High,30,30,,Stay alert.,246.5,0,100,High,19.250,73.400
+Kalyan,59:11.4,32.5,63,338.1,1013.8,6.8,1.79,High,High,High,32.5,32.5,,Stay alert.,338.1,1,100,High,19.243,73.080
+Shahapur,55:41.0,27.7,84,117,1011.7,27.3,0.67,Medium,Medium,Medium,27.7,27.7,,Stay alert.,117,1,100,Medium,19.450,73.330
+Mira-Bhayandar,17:26.0,25.6,61,40.7,1004.2,26.9,0.49,Low,Low,Low,25.6,25.6,,Stay alert.,0,0,100,Low,19.295,72.854
+Ulhasnagar,10:32.5,30,77,160.7,1012,13.2,1.69,High,High,High,30,30,,Stay alert.,160.7,0,100,High,19.216,73.150
+Dombivli,28:24.6,28.9,88,328.2,998.9,13.3,1.69,High,High,High,28.9,28.9,,Stay alert.,328.2,1,100,High,19.218,73.087
+Kalyan,23:41.7,30.9,93,48.4,1014.2,12.1,0.51,Low,Low,Low,30.9,30.9,,Stay alert.,0,0,100,Low,19.243,73.080
+Mira-Bhayandar,20:45.3,24.2,97,79.1,1004.8,1.7,0.77,Medium,Medium,Medium,24.2,24.2,,Stay alert.,0,1,100,Medium,19.295,72.854
+Ulhasnagar,01:27.6,24.9,89,320.4,1007.9,7,0.66,High,High,High,24.9,24.9,,Stay alert.,320.4,1,100,High,19.216,73.150
+Mira-Bhayandar,12:01.9,28.4,76,108.6,996.7,28.3,1.81,High,High,High,28.4,28.4,,Stay alert.,108.6,0,100,High,19.295,72.854
+Thane City,50:03.0,24.3,91,289.2,992.1,4.2,1.89,High,High,High,24.3,24.3,,Stay alert.,289.2,1,100,High,19.218,72.978
+Mira-Bhayandar,15:51.6,25.5,61,213.4,1012.8,17.7,1.24,High,Medium,Medium,25.5,25.5,,Stay alert.,213.4,1,100,High,19.295,72.854
+Kalyan,04:04.9,31.7,90,313,992.5,33.3,0.71,High,High,High,31.7,31.7,,Stay alert.,313,1,100,High,19.243,73.080
+Shahapur,16:39.9,26.2,77,276.3,997.6,22.7,1.18,High,High,High,26.2,26.2,,Stay alert.,276.3,1,100,High,19.450,73.330
+Shahapur,17:25.8,24,81,22.9,1010.8,20.1,0.55,Low,Low,Low,24,24,,Stay alert.,0,0,100,Low,19.450,73.330
+Bhiwandi,41:10.7,33.6,92,236.3,992.9,7.1,0.58,High,Medium,High,33.6,33.6,,Stay alert.,236.3,0,100,High,19.296,73.063
+Kalyan,16:24.8,24.3,87,327.4,1014.9,12.1,1.93,High,High,High,24.3,24.3,,Stay alert.,327.4,0,100,High,19.243,73.080
+Ambernath,33:27.1,28.5,66,295,1004.7,15.4,1.49,High,High,High,28.5,28.5,,Stay alert.,295,0,100,High,19.186,73.191
+Ulhasnagar,06:04.0,31.2,91,51.4,1005.3,16.4,0.88,Medium,Low,Low,31.2,31.2,,Stay alert.,0,0,100,Medium,19.216,73.150
+Kalyan,42:14.1,25.1,91,334.1,990.6,34.4,1.25,High,High,High,25.1,25.1,,Stay alert.,334.1,1,100,High,19.243,73.080
+Bhiwandi,57:04.3,35.9,87,185.3,1011.5,4.7,1.71,High,High,High,35.9,35.9,,Stay alert.,185.3,0,100,High,19.296,73.063
+Mira-Bhayandar,13:22.3,31.1,85,207,1003.7,22,1.44,High,Medium,Medium,31.1,31.1,,Stay alert.,207,1,100,High,19.295,72.854
+Bhiwandi,43:56.7,33.9,60,62.6,993.6,24.3,1.84,High,High,High,33.9,33.9,,Stay alert.,0,0,100,High,19.296,73.063
+Ambernath,52:51.6,24.1,82,296.2,996.7,17.3,1.23,High,High,High,24.1,24.1,,Stay alert.,296.2,0,100,High,19.186,73.191
+Thane City,21:08.0,33.1,70,300.5,996.9,6.9,1.77,High,High,High,33.1,33.1,,Stay alert.,300.5,0,100,High,19.218,72.978
+Thane City,38:49.7,25,78,20,998.1,25.4,1.75,High,High,High,25,25,,Stay alert.,0,0,100,High,19.218,72.978
+Bhiwandi,10:52.3,29.9,68,19.6,1014.6,3,1.4,Medium,Medium,Medium,29.9,29.9,,Stay alert.,0,1,100,Medium,19.296,73.063
+Thane City,30:24.5,34.1,81,308.7,993.5,14,0.03,High,High,High,34.1,34.1,,Stay alert.,308.7,1,100,High,19.218,72.978
+Kalyan,51:29.1,26.7,91,31.9,998.6,9.5,0.56,Low,Low,Low,26.7,26.7,,Stay alert.,0,1,100,Low,19.243,73.080
+Bhiwandi,22:42.3,29.6,67,237.1,1000.9,8,0.85,High,Medium,High,29.6,29.6,,Stay alert.,237.1,0,100,High,19.296,73.063
+Bhiwandi,34:48.4,30.2,67,159.6,1005.1,5.4,0.99,Medium,Medium,Medium,30.2,30.2,,Stay alert.,159.6,1,100,Medium,19.296,73.063
+Bhiwandi,03:44.5,30.2,66,292.1,1003.5,26.2,0.35,High,High,High,30.2,30.2,,Stay alert.,292.1,0,100,High,19.296,73.063
+Ulhasnagar,49:14.9,27.1,65,114.6,1011.7,32,0.84,Medium,Medium,Medium,27.1,27.1,,Stay alert.,114.6,1,100,Medium,19.216,73.150
+Murbad,06:57.2,35.5,85,22.5,1014.2,25.7,0.29,Low,Low,Low,35.5,35.5,,Stay alert.,0,1,100,Low,19.250,73.400
+Kalyan,38:04.6,33.2,89,197.5,1005.6,14.3,1.28,Medium,Medium,Medium,33.2,33.2,,Stay alert.,197.5,1,100,Medium,19.243,73.080
+Murbad,15:20.5,29.3,65,304.8,1008.5,23.7,0.58,High,High,High,29.3,29.3,,Stay alert.,304.8,0,100,High,19.250,73.400
+Shahapur,09:43.7,31.8,64,316.5,991,13.2,1.18,High,High,High,31.8,31.8,,Stay alert.,316.5,0,100,High,19.450,73.330
+Murbad,19:25.5,35.9,71,261.6,1012,34.2,0.66,High,High,High,35.9,35.9,,Stay alert.,261.6,0,100,High,19.250,73.400
+Dombivli,41:21.6,26.4,74,275.5,1014.9,3.4,1.8,High,High,High,26.4,26.4,,Stay alert.,275.5,0,100,High,19.218,73.087
+Ambernath,57:46.7,33.3,86,292.6,1014,29.9,0.91,High,High,High,33.3,33.3,,Stay alert.,292.6,1,100,High,19.186,73.191
+Mira-Bhayandar,23:37.3,34,75,31.1,997.1,33.6,1.2,Medium,Medium,Medium,34,34,,Stay alert.,0,0,100,Medium,19.295,72.854
+Dombivli,17:07.1,25,69,27.7,997.3,25.4,1.93,High,High,High,25,25,,Stay alert.,0,0,100,High,19.218,73.087
+Dombivli,03:28.8,27.7,67,47.9,1001.9,2.2,0.49,Low,Low,Low,27.7,27.7,,Stay alert.,0,1,100,Low,19.218,73.087
+Bhiwandi,52:58.8,32.5,66,169.1,1012.3,19,0.82,Medium,Medium,Medium,32.5,32.5,,Stay alert.,169.1,1,100,Medium,19.296,73.063
+Mira-Bhayandar,37:41.8,26.4,79,246.1,1008,22.4,0.56,High,Medium,High,26.4,26.4,,Stay alert.,246.1,1,100,High,19.295,72.854
+Shahapur,29:17.7,31.1,86,166.3,1007.8,8,0.87,Medium,Medium,Medium,31.1,31.1,,Stay alert.,166.3,0,100,Medium,19.450,73.330
+Ulhasnagar,30:39.6,24.8,75,237.9,1001.1,20.3,0.86,High,Medium,High,24.8,24.8,,Stay alert.,237.9,1,100,High,19.216,73.150
+Shahapur,09:02.2,26.7,75,346.6,1005.1,9.4,0.1,High,High,High,26.7,26.7,,Stay alert.,346.6,1,100,High,19.450,73.330
+Mira-Bhayandar,19:42.8,25.4,78,165.5,999.1,2.3,1.16,Medium,Medium,Medium,25.4,25.4,,Stay alert.,165.5,0,100,Medium,19.295,72.854
+Ambernath,41:36.9,25.3,95,191.2,1008.5,14.9,1.49,Medium,Medium,Medium,25.3,25.3,,Stay alert.,191.2,1,100,Medium,19.186,73.191
+Thane City,54:54.9,25.2,68,212.4,993.3,10.2,0.33,High,Medium,Medium,25.2,25.2,,Stay alert.,212.4,1,100,High,19.218,72.978
