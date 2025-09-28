@@ -1,4 +1,4 @@
-# FloodSight
+# FloodSight: A flood risk classifier
 
 ## **Problem Statement**
 
@@ -24,3 +24,12 @@
 3. Development Environment- VS Code: Primary IDE used for development, debugging, and execution.
 4. Machine Learning- Python (Pandas, scikit-learn): Data cleaning, feature engineering, and training the flood risk classification model (XGBoost).
 
+## **Screenshots**
+## **1. Flood Risk Analysis and Weather:**
+<img width="1820" height="899" alt="image" src="https://github.com/user-attachments/assets/da2214b8-09a1-4ec5-af67-c479bc1ff98b" />
+<img width="1772" height="931" alt="image" src="https://github.com/user-attachments/assets/82ca864b-bff9-4cb9-88c9-cc21b7074c6e" />
+<img width="1612" height="868" alt="image" src="https://github.com/user-attachments/assets/74c4f855-40f7-4e5b-b2f3-3e9ffbca1431" />
+
+## **2. Interactive Route Map**
+<img width="1592" height="954" alt="image" src="https://github.com/user-attachments/assets/b874d93b-85a0-4bea-b733-4c52f1bc43db" />
+<img width="1676" height="879" alt="image" src="https://github.com/user-attachments/assets/ab809a7e-6d12-4b13-a267-1b8c7a0bca44" />
