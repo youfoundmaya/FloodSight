@@ -2,14 +2,15 @@
 
 ## **Problem Statement**
 
-- Timely and accurate flood risk assessment is critical for saving lives and minimizing property damage. Existing systems often rely on static models or delayed reporting, failing to provide the dynamic, hyper-localized information needed for rapid decision-making.
-- The FloodSight project addresses this by developing a machine learning-powered system that ingests real-time environmental data (rainfall, river levels, terrain, weather forecasts) to classify flood risk severity. The core objective is to deliver immediate, actionable intelligence through a responsive dashboard featuring three distinct severity levels:
-
-- 🟢 Safe: No immediate risk detected.
-- 🟡 Warning: Elevated risk; monitor conditions closely.
-- 🔴 Evacuation: Imminent danger; immediate action required.
-
-- Crucially, the system integrates with the Google Maps API to provide users in "Warning" or "Evacuation" zones with safe, navigable route suggestions to designated safe zones, bypassing flooded or blocked areas in real-time. This combination of predictive classification and dynamic routing transforms raw data into life-saving operational capacity.
+- Timely and accurate flood risk assessment is critical for everyday commuters to recognize if the route is safe or not.
+- Existing systems often rely on static models or delayed reporting, failing to provide the dynamic, hyper-localized information needed for rapid decision-making.
+- The FloodSight project addresses this by developing a machine learning-powered system that ingests real-time environmental data (rainfall, tide levels, weather forecasts) to classify flood risk severity.
+- The core objective is to deliver immediate, actionable intelligence through a responsive dashboard featuring three distinct severity levels:
+  - 🟢 Safe: No immediate risk detected.
+  - 🟡 Warning: Elevated risk; monitor conditions closely.
+  - 🔴 Evacuation: Imminent danger; immediate action required.
+- Crucially, the system integrates with the OpenWeathermanAPI to provide users whether the area is safe or not, with the weather forecast and also 3 navigable route suggestion.
+- This combination of classification and dynamic routing transforms raw data into life-saving operational capacity.
 
 ## **Team Members & Tech Stack**
 1. Mrunmayee Ovhal: Data Integration, Map Visualization, Streamlit UI, Weather API
