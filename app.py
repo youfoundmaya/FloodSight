@@ -74,7 +74,7 @@ def get_weather_data(lat, lon):
     """Get current weather data using OpenWeatherMap API"""
     try:
         # You'll need to get a free API key from openweathermap.org
-        API_KEY = "95b1dd22be81528ccc883e4a930b1c81"  # Replace with your actual API key
+        API_KEY = "youropenweathermap_api_key"  # Replace with your actual API key
         
         url = f"http://api.openweathermap.org/data/2.5/weather"
         params = {
